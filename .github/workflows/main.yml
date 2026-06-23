@@ -1,0 +1,26 @@
+name: Fetch Dashoefer Data
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # täglich um 6 Uhr
+  workflow_dispatch:       # manuell auslösbar
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and aggregate data
+        env:
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+        run: |
+          node fetch_data.js
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update dashboard data"
+          git push
