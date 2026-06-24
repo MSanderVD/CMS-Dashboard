@@ -1,0 +1,36 @@
+{
+  "lastFourWeeks": {
+    "total": 24,
+    "byBundesland": {
+      "bund": 24
+    },
+    "beschluesse": 19,
+    "inPhibox": 24
+  },
+  "gesamt": {
+    "total": 127186,
+    "byBundesland": {
+      "rheinland-pfalz": 8496,
+      "saarland": 625,
+      "niedersachsen": 4524,
+      "Unbekannt": 14231,
+      "hamburg": 1927,
+      "sachsen-anhalt": 1136,
+      "bayern": 1364,
+      "brandenburg": 1403,
+      "hessen": 5701,
+      "thüringen": 852,
+      "berlin": 2374,
+      "baden-württemberg": 3706,
+      "bund": 68433,
+      "mecklenburg-vorpommern": 1043,
+      "schleswig-holstein": 1059,
+      "bremen": 370,
+      "nordrhein-westfalen": 9382,
+      "sachsen": 560
+    },
+    "beschluesse": 47676,
+    "inPhibox": 127186
+  },
+  "updatedAt": "2026-06-24T06:58:58.544Z"
+}
