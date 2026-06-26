@@ -27,10 +27,14 @@ function incr(obj, key) {
   obj[key] = (obj[key] || 0) + 1;
 }
 
+function objToArray(obj) {
+  return Object.entries(obj).map(([name, anzahl]) => ({ name, anzahl }));
+}
+
 function getMonth(dateStr) {
   if (!dateStr) return 'Unbekannt';
   const d = new Date(dateStr);
-  return isNaN(d) ? 'Unbekannt' : d.toISOString().slice(0, 7); // z.B. "2026-04"
+  return isNaN(d) ? 'Unbekannt' : d.toISOString().slice(0, 7);
 }
 
 function getPhiboxConnection(phibox_upload_status) {
@@ -38,28 +42,34 @@ function getPhiboxConnection(phibox_upload_status) {
   return phibox_upload_status.map(s => s.connection || 'Unbekannt').join(', ');
 }
 
-function emptySection() {
-  return {
-    total: 0,
-    byBundesland: {},
-    byBundeslandAndGericht: {},
-    byDoctype: {},
-    byMonat: {},
-    byPhiboxConnection: {},
-    beschluesse: 0,
-    urteile: 0,
-    inPhibox: 0,
-    nichtInPhibox: 0,
-  };
-}
-
 async function main() {
   console.log('Starte Datenabruf...');
 
-  const stats = {
-    lastFourWeeks: emptySection(),
-    gesamt: emptySection(),
-    updatedAt: new Date().toISOString(),
+  const raw = {
+    lastFourWeeks: {
+      total: 0,
+      byBundesland: {},
+      byBundeslandAndGericht: {},
+      byDoctype: {},
+      byMonat: {},
+      byPhiboxConnection: {},
+      beschluesse: 0,
+      urteile: 0,
+      inPhibox: 0,
+      nichtInPhibox: 0,
+    },
+    gesamt: {
+      total: 0,
+      byBundesland: {},
+      byBundeslandAndGericht: {},
+      byDoctype: {},
+      byMonat: {},
+      byPhiboxConnection: {},
+      beschluesse: 0,
+      urteile: 0,
+      inPhibox: 0,
+      nichtInPhibox: 0,
+    },
   };
 
   const first = await fetchPage(0);
@@ -73,7 +83,7 @@ async function main() {
     allIds.push(...page.results.map(r => r.id));
   }
 
-  stats.gesamt.total = total;
+  raw.gesamt.total = total;
 
   console.log('Lade Detaildaten...');
   const batchSize = 10;
@@ -94,8 +104,7 @@ async function main() {
       const isBeschl = doctypes.includes('beschluss');
       const isUrteil = doctypes.includes('urteil');
 
-      // Gesamtbestand
-      const g = stats.gesamt;
+      const g = raw.gesamt;
       incr(g.byBundesland, bl);
       incr(g.byMonat, monat);
       if (!g.byBundeslandAndGericht[bl]) g.byBundeslandAndGericht[bl] = {};
@@ -106,9 +115,8 @@ async function main() {
       if (isUrteil) g.urteile++;
       if (inPhibox) g.inPhibox++; else g.nichtInPhibox++;
 
-      // Letzte 4 Wochen
       if (isLastFourWeeks(doc.entscheidungsdatum_isodate)) {
-        const lfw = stats.lastFourWeeks;
+        const lfw = raw.lastFourWeeks;
         lfw.total++;
         incr(lfw.byBundesland, bl);
         incr(lfw.byMonat, monat);
@@ -124,6 +132,41 @@ async function main() {
 
     if (i % 1000 === 0) console.log(`Verarbeitet: ${i}/${allIds.length}`);
   }
+
+  // Alles als Arrays speichern für Grafana
+  const stats = {
+    lastFourWeeks: {
+      total: raw.lastFourWeeks.total,
+      beschluesse: raw.lastFourWeeks.beschluesse,
+      urteile: raw.lastFourWeeks.urteile,
+      inPhibox: raw.lastFourWeeks.inPhibox,
+      nichtInPhibox: raw.lastFourWeeks.nichtInPhibox,
+      byBundesland: objToArray(raw.lastFourWeeks.byBundesland),
+      byDoctype: objToArray(raw.lastFourWeeks.byDoctype),
+      byMonat: objToArray(raw.lastFourWeeks.byMonat),
+      byPhiboxConnection: objToArray(raw.lastFourWeeks.byPhiboxConnection),
+      byBundeslandAndGericht: Object.entries(raw.lastFourWeeks.byBundeslandAndGericht).map(([bundesland, gerichte]) => ({
+        bundesland,
+        gerichte: objToArray(gerichte)
+      })),
+    },
+    gesamt: {
+      total: raw.gesamt.total,
+      beschluesse: raw.gesamt.beschluesse,
+      urteile: raw.gesamt.urteile,
+      inPhibox: raw.gesamt.inPhibox,
+      nichtInPhibox: raw.gesamt.nichtInPhibox,
+      byBundesland: objToArray(raw.gesamt.byBundesland),
+      byDoctype: objToArray(raw.gesamt.byDoctype),
+      byMonat: objToArray(raw.gesamt.byMonat),
+      byPhiboxConnection: objToArray(raw.gesamt.byPhiboxConnection),
+      byBundeslandAndGericht: Object.entries(raw.gesamt.byBundeslandAndGericht).map(([bundesland, gerichte]) => ({
+        bundesland,
+        gerichte: objToArray(gerichte)
+      })),
+    },
+    updatedAt: new Date().toISOString(),
+  };
 
   if (!fs.existsSync('data')) fs.mkdirSync('data');
   fs.writeFileSync('data/stats.json', JSON.stringify(stats, null, 2));
