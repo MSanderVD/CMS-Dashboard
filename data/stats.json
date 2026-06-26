@@ -1,96 +1,651 @@
 {
   "lastFourWeeks": {
-    "total": 28,
-    "beschluesse": 22,
-    "urteile": 6,
-    "inPhibox": 28,
+    "total": 371,
+    "beschluesse": 237,
+    "urteile": 133,
+    "inPhibox": 371,
     "nichtInPhibox": 0,
     "byBundesland": [
       {
+        "name": "baden-württemberg",
+        "anzahl": 14
+      },
+      {
+        "name": "saarland",
+        "anzahl": 2
+      },
+      {
         "name": "bund",
-        "anzahl": 28
+        "anzahl": 313
+      },
+      {
+        "name": "thüringen",
+        "anzahl": 4
+      },
+      {
+        "name": "mecklenburg-vorpommern",
+        "anzahl": 7
+      },
+      {
+        "name": "rheinland-pfalz",
+        "anzahl": 6
+      },
+      {
+        "name": "schleswig-holstein",
+        "anzahl": 3
+      },
+      {
+        "name": "sachsen-anhalt",
+        "anzahl": 2
+      },
+      {
+        "name": "hamburg",
+        "anzahl": 5
+      },
+      {
+        "name": "niedersachsen",
+        "anzahl": 6
+      },
+      {
+        "name": "hessen",
+        "anzahl": 8
+      },
+      {
+        "name": "berlin",
+        "anzahl": 1
       }
     ],
     "byDoctype": [
       {
         "name": "urteil",
-        "anzahl": 6
+        "anzahl": 133
       },
       {
         "name": "beschluss",
-        "anzahl": 22
+        "anzahl": 237
+      },
+      {
+        "name": "eugh-vorlage",
+        "anzahl": 1
       }
     ],
     "byMonat": [
       {
+        "name": "2025-06",
+        "anzahl": 1
+      },
+      {
+        "name": "2026-03",
+        "anzahl": 54
+      },
+      {
+        "name": "2025-03",
+        "anzahl": 1
+      },
+      {
+        "name": "2026-05",
+        "anzahl": 116
+      },
+      {
+        "name": "2026-04",
+        "anzahl": 86
+      },
+      {
+        "name": "2026-02",
+        "anzahl": 19
+      },
+      {
+        "name": "2026-01",
+        "anzahl": 27
+      },
+      {
+        "name": "2016-08",
+        "anzahl": 1
+      },
+      {
+        "name": "2025-01",
+        "anzahl": 1
+      },
+      {
+        "name": "2025-08",
+        "anzahl": 6
+      },
+      {
+        "name": "2025-12",
+        "anzahl": 7
+      },
+      {
+        "name": "2025-10",
+        "anzahl": 5
+      },
+      {
+        "name": "2025-11",
+        "anzahl": 6
+      },
+      {
         "name": "2026-06",
         "anzahl": 28
+      },
+      {
+        "name": "2025-05",
+        "anzahl": 1
+      },
+      {
+        "name": "2025-02",
+        "anzahl": 2
+      },
+      {
+        "name": "2018-07",
+        "anzahl": 1
+      },
+      {
+        "name": "2024-05",
+        "anzahl": 1
+      },
+      {
+        "name": "2024-06",
+        "anzahl": 1
+      },
+      {
+        "name": "2015-08",
+        "anzahl": 1
+      },
+      {
+        "name": "2025-07",
+        "anzahl": 2
+      },
+      {
+        "name": "2017-12",
+        "anzahl": 1
+      },
+      {
+        "name": "2017-10",
+        "anzahl": 2
+      },
+      {
+        "name": "2017-11",
+        "anzahl": 1
       }
     ],
     "byPhiboxConnection": [
       {
-        "name": "Kein Status",
-        "anzahl": 27
+        "name": "LIVE",
+        "anzahl": 79
       },
       {
-        "name": "LIVE",
-        "anzahl": 1
+        "name": "Kein Status",
+        "anzahl": 292
       }
     ],
     "byBundeslandAndGericht": [
       {
+        "bundesland": "baden-württemberg",
+        "gerichte": [
+          {
+            "name": "OLG Stuttgart 12. Zivilsenat",
+            "anzahl": 1
+          },
+          {
+            "name": "Verwaltungsgerichtshof Baden-Württemberg 9. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "ArbG Stuttgart 22. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "Landesarbeitsgericht Baden-Württemberg 17. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "Landesarbeitsgericht Baden-Württemberg 4. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "OLG Stuttgart 6. Zivilsenat",
+            "anzahl": 2
+          },
+          {
+            "name": "Landesarbeitsgericht Baden-Württemberg 3. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "Landesarbeitsgericht Baden-Württemberg 9. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "ArbG Ulm 3. Kammer",
+            "anzahl": 2
+          },
+          {
+            "name": "VG Karlsruhe 12. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "Finanzgericht Baden-Württemberg 7. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "Verwaltungsgerichtshof Baden-Württemberg 4. Senat",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "bundesland": "saarland",
+        "gerichte": [
+          {
+            "name": "Oberverwaltungsgericht des Saarlandes 1. Senat",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
         "bundesland": "bund",
         "gerichte": [
           {
-            "name": "BGH 6. Zivilsenat",
+            "name": "BFH 9. Senat",
             "anzahl": 3
           },
           {
-            "name": "BGH 6a. Zivilsenat",
-            "anzahl": 9
+            "name": "BFH 10. Senat",
+            "anzahl": 3
           },
           {
-            "name": "BGH 1. Zivilsenat",
-            "anzahl": 1
-          },
-          {
-            "name": "BGH 5. Strafsenat",
+            "name": "BFH 5. Senat",
             "anzahl": 4
           },
           {
-            "name": "BGH 2. Zivilsenat",
+            "name": "BFH 8. Senat",
+            "anzahl": 3
+          },
+          {
+            "name": "BFH 7. Senat",
+            "anzahl": 2
+          },
+          {
+            "name": "BFH 1. Senat",
+            "anzahl": 5
+          },
+          {
+            "name": "BFH 3. Senat",
             "anzahl": 1
           },
           {
-            "name": "BGH 8. Zivilsenat",
-            "anzahl": 1
+            "name": "BVerwG 5. Senat",
+            "anzahl": 3
+          },
+          {
+            "name": "BVerwG 1. Senat",
+            "anzahl": 3
+          },
+          {
+            "name": "BVerwG 1. Wehrdienstsenat",
+            "anzahl": 7
+          },
+          {
+            "name": "BVerwG 2. Wehrdienstsenat",
+            "anzahl": 6
+          },
+          {
+            "name": "BGH 6a. Zivilsenat",
+            "anzahl": 13
           },
           {
             "name": "BGH 2. Strafsenat",
-            "anzahl": 1
-          },
-          {
-            "name": "BGH Senat für Anwaltssachen",
-            "anzahl": 1
-          },
-          {
-            "name": "BGH 7. Zivilsenat",
-            "anzahl": 2
-          },
-          {
-            "name": "BGH Dienstgericht des Bundes",
-            "anzahl": 1
-          },
-          {
-            "name": "BGH 11. Zivilsenat",
-            "anzahl": 2
+            "anzahl": 32
           },
           {
             "name": "BGH 5. Zivilsenat",
-            "anzahl": 1
+            "anzahl": 7
+          },
+          {
+            "name": "BGH 5. Strafsenat",
+            "anzahl": 25
           },
           {
             "name": "BGH 9. Zivilsenat",
+            "anzahl": 7
+          },
+          {
+            "name": "BAG 1. Senat",
+            "anzahl": 5
+          },
+          {
+            "name": "BAG 3. Senat",
+            "anzahl": 2
+          },
+          {
+            "name": "BVerwG 4. Senat",
+            "anzahl": 6
+          },
+          {
+            "name": "BGH 11. Zivilsenat",
+            "anzahl": 11
+          },
+          {
+            "name": "BGH 8. Zivilsenat",
+            "anzahl": 10
+          },
+          {
+            "name": "BGH 4. Zivilsenat",
+            "anzahl": 5
+          },
+          {
+            "name": "BGH 10. Zivilsenat",
+            "anzahl": 5
+          },
+          {
+            "name": "BVerwG 8. Senat",
+            "anzahl": 8
+          },
+          {
+            "name": "BVerwG 3. Senat",
+            "anzahl": 3
+          },
+          {
+            "name": "BGH 6. Zivilsenat",
+            "anzahl": 10
+          },
+          {
+            "name": "BGH 12. Zivilsenat",
+            "anzahl": 10
+          },
+          {
+            "name": "BGH 3. Strafsenat",
+            "anzahl": 18
+          },
+          {
+            "name": "BGH 4. Strafsenat",
+            "anzahl": 7
+          },
+          {
+            "name": "BGH Kartellsenat",
+            "anzahl": 1
+          },
+          {
+            "name": "BSG 6a. Senat",
+            "anzahl": 2
+          },
+          {
+            "name": "BVerwG 7. Senat",
+            "anzahl": 9
+          },
+          {
+            "name": "BGH 1. Strafsenat",
+            "anzahl": 7
+          },
+          {
+            "name": "BVerwG 2. Senat",
+            "anzahl": 6
+          },
+          {
+            "name": "BVerwG 9. Senat",
+            "anzahl": 6
+          },
+          {
+            "name": "BFH 2. Senat",
+            "anzahl": 2
+          },
+          {
+            "name": "BGH Senat für Anwaltssachen",
+            "anzahl": 2
+          },
+          {
+            "name": "BGH 6. Strafsenat",
+            "anzahl": 9
+          },
+          {
+            "name": "BGH Dienstgericht des Bundes",
+            "anzahl": 2
+          },
+          {
+            "name": "BAG 2. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BSG 4. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BGH Senat für Notarsachen",
+            "anzahl": 1
+          },
+          {
+            "name": "BSG 11. Senat",
+            "anzahl": 4
+          },
+          {
+            "name": "BGH 1. Zivilsenat",
+            "anzahl": 3
+          },
+          {
+            "name": "BGH 3. Zivilsenat",
+            "anzahl": 1
+          },
+          {
+            "name": "BAG 8. Senat",
+            "anzahl": 3
+          },
+          {
+            "name": "BSG 7. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BGH 2. Zivilsenat",
+            "anzahl": 2
+          },
+          {
+            "name": "BGH 7. Zivilsenat",
+            "anzahl": 5
+          },
+          {
+            "name": "BSG 3. Senat",
+            "anzahl": 3
+          },
+          {
+            "name": "BAG 4. Senat",
+            "anzahl": 3
+          },
+          {
+            "name": "BAG 10. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BAG 7. Senat",
+            "anzahl": 3
+          },
+          {
+            "name": "BSG 10. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BSG 9. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BSG 8. Senat",
+            "anzahl": 2
+          },
+          {
+            "name": "BSG 5. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BSG 12. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BFH 6. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BAG 6. Senat",
+            "anzahl": 2
+          },
+          {
+            "name": "BVerwG 10. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "BVerwG 6. Senat",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "bundesland": "thüringen",
+        "gerichte": [
+          {
+            "name": "Thüringer Landesarbeitsgericht 5. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "ArbG Nordhausen 3. Kammer",
+            "anzahl": 2
+          },
+          {
+            "name": "ArbG Erfurt 4. Kammer",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "bundesland": "mecklenburg-vorpommern",
+        "gerichte": [
+          {
+            "name": "Landesarbeitsgericht Mecklenburg-Vorpommern 2. Kammer",
+            "anzahl": 2
+          },
+          {
+            "name": "Landesarbeitsgericht Mecklenburg-Vorpommern 5. Kammer",
+            "anzahl": 5
+          }
+        ]
+      },
+      {
+        "bundesland": "rheinland-pfalz",
+        "gerichte": [
+          {
+            "name": "Landesarbeitsgericht Rheinland-Pfalz 2. Kammer",
+            "anzahl": 2
+          },
+          {
+            "name": "Landesarbeitsgericht Rheinland-Pfalz 6. Kammer",
+            "anzahl": 2
+          },
+          {
+            "name": "Landesarbeitsgericht Rheinland-Pfalz 4. Kammer",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "bundesland": "schleswig-holstein",
+        "gerichte": [
+          {
+            "name": "Schleswig-Holsteinisches Landessozialgericht 10. Senat",
+            "anzahl": 2
+          },
+          {
+            "name": "Schleswig-Holsteinisches Landessozialgericht 3. Senat",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "bundesland": "sachsen-anhalt",
+        "gerichte": [
+          {
+            "name": "Landesarbeitsgericht Sachsen-Anhalt 2. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "Finanzgericht des Landes Sachsen-Anhalt 1. Senat",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "bundesland": "hamburg",
+        "gerichte": [
+          {
+            "name": "ArbG Hamburg 25. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "ArbG Hamburg 28. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "ArbG Hamburg 22. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "ArbG Hamburg 1. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "ArbG Hamburg 21. Kammer",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "bundesland": "niedersachsen",
+        "gerichte": [
+          {
+            "name": "FG Niedersachsen",
+            "anzahl": 4
+          },
+          {
+            "name": "LAG Niedersachsen",
+            "anzahl": 2
+          }
+        ]
+      },
+      {
+        "bundesland": "hessen",
+        "gerichte": [
+          {
+            "name": "Hessisches Finanzgericht 6. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "Hessisches Finanzgericht 7. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "Hessisches Finanzgericht 4. Senat",
+            "anzahl": 1
+          },
+          {
+            "name": "Hessisches Landesarbeitsgericht 16. Berufungskammer",
+            "anzahl": 1
+          },
+          {
+            "name": "Hessisches Landesarbeitsgericht 7. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "Hessisches Landesarbeitsgericht 10. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "Hessisches Landesarbeitsgericht 3. Kammer",
+            "anzahl": 1
+          },
+          {
+            "name": "ArbG Kassel 1. Kammer",
+            "anzahl": 1
+          }
+        ]
+      },
+      {
+        "bundesland": "berlin",
+        "gerichte": [
+          {
+            "name": "Landessozialgericht Berlin-Brandenburg 9. Senat",
             "anzahl": 1
           }
         ]
@@ -10592,5 +11147,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T07:58:25.449Z"
+  "updatedAt": "2026-06-26T12:57:26.739Z"
 }
