@@ -115,7 +115,7 @@ async function main() {
       if (isUrteil) g.urteile++;
       if (inPhibox) g.inPhibox++; else g.nichtInPhibox++;
 
-      if (isLastFourWeeks(doc.entscheidungsdatum_isodate)) {
+      if (isLastFourWeeks(doc.crawl_date_isodate)) {
         const lfw = raw.lastFourWeeks;
         lfw.total++;
         incr(lfw.byBundesland, bl);
