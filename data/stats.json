@@ -1,38 +1,38 @@
 {
   "lastFourWeeks": {
-    "total": 371,
-    "beschluesse": 237,
-    "urteile": 133,
-    "inPhibox": 371,
+    "total": 373,
+    "beschluesse": 235,
+    "urteile": 137,
+    "inPhibox": 373,
     "nichtInPhibox": 0,
     "byBundesland": [
-      {
-        "name": "baden-württemberg",
-        "anzahl": 14
-      },
-      {
-        "name": "saarland",
-        "anzahl": 2
-      },
       {
         "name": "bund",
         "anzahl": 313
       },
       {
-        "name": "thüringen",
-        "anzahl": 4
+        "name": "baden-württemberg",
+        "anzahl": 15
       },
       {
         "name": "mecklenburg-vorpommern",
         "anzahl": 7
       },
       {
+        "name": "thüringen",
+        "anzahl": 3
+      },
+      {
         "name": "rheinland-pfalz",
         "anzahl": 6
       },
       {
+        "name": "saarland",
+        "anzahl": 1
+      },
+      {
         "name": "schleswig-holstein",
-        "anzahl": 3
+        "anzahl": 6
       },
       {
         "name": "sachsen-anhalt",
@@ -57,12 +57,12 @@
     ],
     "byDoctype": [
       {
-        "name": "urteil",
-        "anzahl": 133
+        "name": "beschluss",
+        "anzahl": 235
       },
       {
-        "name": "beschluss",
-        "anzahl": 237
+        "name": "urteil",
+        "anzahl": 137
       },
       {
         "name": "eugh-vorlage",
@@ -71,36 +71,20 @@
     ],
     "byMonat": [
       {
-        "name": "2025-06",
-        "anzahl": 1
-      },
-      {
-        "name": "2026-03",
-        "anzahl": 54
-      },
-      {
-        "name": "2025-03",
-        "anzahl": 1
+        "name": "2026-04",
+        "anzahl": 86
       },
       {
         "name": "2026-05",
         "anzahl": 116
       },
       {
-        "name": "2026-04",
-        "anzahl": 86
-      },
-      {
-        "name": "2026-02",
-        "anzahl": 19
+        "name": "2026-03",
+        "anzahl": 56
       },
       {
         "name": "2026-01",
-        "anzahl": 27
-      },
-      {
-        "name": "2016-08",
-        "anzahl": 1
+        "anzahl": 24
       },
       {
         "name": "2025-01",
@@ -111,8 +95,12 @@
         "anzahl": 6
       },
       {
+        "name": "2026-02",
+        "anzahl": 15
+      },
+      {
         "name": "2025-12",
-        "anzahl": 7
+        "anzahl": 9
       },
       {
         "name": "2025-10",
@@ -120,11 +108,11 @@
       },
       {
         "name": "2025-11",
-        "anzahl": 6
+        "anzahl": 7
       },
       {
         "name": "2026-06",
-        "anzahl": 28
+        "anzahl": 33
       },
       {
         "name": "2025-05",
@@ -132,7 +120,7 @@
       },
       {
         "name": "2025-02",
-        "anzahl": 2
+        "anzahl": 3
       },
       {
         "name": "2018-07",
@@ -165,62 +153,44 @@
       {
         "name": "2017-11",
         "anzahl": 1
+      },
+      {
+        "name": "2013-09",
+        "anzahl": 1
       }
     ],
     "byPhiboxConnection": [
       {
-        "name": "LIVE",
-        "anzahl": 79
+        "name": "Kein Status",
+        "anzahl": 284
       },
       {
-        "name": "Kein Status",
-        "anzahl": 292
+        "name": "LIVE",
+        "anzahl": 89
       }
     ],
     "byBundeslandDetail": [
       {
-        "bundesland": "baden-württemberg",
-        "gesamt": 14,
-        "urteile": 12,
-        "beschluesse": 2,
-        "inPhibox": 14,
-        "mitSummary3": 6,
-        "ohneSummary3": 8,
-        "pre": 7,
-        "post": 4
-      },
-      {
-        "bundesland": "saarland",
-        "gesamt": 2,
-        "urteile": 0,
-        "beschluesse": 2,
-        "inPhibox": 2,
-        "mitSummary3": 0,
-        "ohneSummary3": 2,
-        "pre": 0,
-        "post": 0
-      },
-      {
         "bundesland": "bund",
         "gesamt": 313,
-        "urteile": 87,
-        "beschluesse": 225,
+        "urteile": 92,
+        "beschluesse": 220,
         "inPhibox": 313,
-        "mitSummary3": 38,
-        "ohneSummary3": 275,
-        "pre": 106,
+        "mitSummary3": 52,
+        "ohneSummary3": 261,
+        "pre": 116,
         "post": 0
       },
       {
-        "bundesland": "thüringen",
-        "gesamt": 4,
-        "urteile": 4,
-        "beschluesse": 0,
-        "inPhibox": 4,
-        "mitSummary3": 1,
-        "ohneSummary3": 3,
-        "pre": 1,
-        "post": 0
+        "bundesland": "baden-württemberg",
+        "gesamt": 15,
+        "urteile": 11,
+        "beschluesse": 4,
+        "inPhibox": 15,
+        "mitSummary3": 8,
+        "ohneSummary3": 7,
+        "pre": 8,
+        "post": 3
       },
       {
         "bundesland": "mecklenburg-vorpommern",
@@ -231,6 +201,17 @@
         "mitSummary3": 3,
         "ohneSummary3": 4,
         "pre": 6,
+        "post": 0
+      },
+      {
+        "bundesland": "thüringen",
+        "gesamt": 3,
+        "urteile": 3,
+        "beschluesse": 0,
+        "inPhibox": 3,
+        "mitSummary3": 1,
+        "ohneSummary3": 2,
+        "pre": 0,
         "post": 0
       },
       {
@@ -245,14 +226,25 @@
         "post": 0
       },
       {
-        "bundesland": "schleswig-holstein",
-        "gesamt": 3,
-        "urteile": 1,
-        "beschluesse": 2,
-        "inPhibox": 3,
+        "bundesland": "saarland",
+        "gesamt": 1,
+        "urteile": 0,
+        "beschluesse": 1,
+        "inPhibox": 1,
         "mitSummary3": 0,
-        "ohneSummary3": 3,
-        "pre": 2,
+        "ohneSummary3": 1,
+        "pre": 0,
+        "post": 0
+      },
+      {
+        "bundesland": "schleswig-holstein",
+        "gesamt": 6,
+        "urteile": 2,
+        "beschluesse": 4,
+        "inPhibox": 6,
+        "mitSummary3": 1,
+        "ohneSummary3": 5,
+        "pre": 3,
         "post": 0
       },
       {
@@ -313,26 +305,373 @@
     ],
     "byBundeslandAndGericht": [
       {
-        "bundesland": "baden-württemberg",
+        "bundesland": "bund",
         "gerichte": [
           {
-            "name": "OLG Stuttgart 12. Zivilsenat",
+            "name": "BVerwG 4. Senat",
+            "gesamt": 7,
+            "urteile": 1,
+            "beschluesse": 6
+          },
+          {
+            "name": "BGH 11. Zivilsenat",
+            "gesamt": 12,
+            "urteile": 2,
+            "beschluesse": 10
+          },
+          {
+            "name": "BGH 8. Zivilsenat",
+            "gesamt": 10,
+            "urteile": 5,
+            "beschluesse": 5
+          },
+          {
+            "name": "BGH 5. Strafsenat",
+            "gesamt": 24,
+            "urteile": 1,
+            "beschluesse": 23
+          },
+          {
+            "name": "BGH 4. Zivilsenat",
+            "gesamt": 5,
+            "urteile": 2,
+            "beschluesse": 3
+          },
+          {
+            "name": "BGH 5. Zivilsenat",
+            "gesamt": 8,
+            "urteile": 3,
+            "beschluesse": 5
+          },
+          {
+            "name": "BGH 10. Zivilsenat",
+            "gesamt": 5,
+            "urteile": 4,
+            "beschluesse": 1
+          },
+          {
+            "name": "BGH 2. Strafsenat",
+            "gesamt": 31,
+            "urteile": 3,
+            "beschluesse": 28
+          },
+          {
+            "name": "BAG 3. Senat",
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
           },
           {
-            "name": "Verwaltungsgerichtshof Baden-Württemberg 9. Senat",
+            "name": "BVerwG 8. Senat",
+            "gesamt": 9,
+            "urteile": 1,
+            "beschluesse": 8
+          },
+          {
+            "name": "BVerwG 1. Wehrdienstsenat",
+            "gesamt": 7,
+            "urteile": 0,
+            "beschluesse": 7
+          },
+          {
+            "name": "BVerwG 3. Senat",
+            "gesamt": 3,
+            "urteile": 0,
+            "beschluesse": 3
+          },
+          {
+            "name": "BVerwG 5. Senat",
+            "gesamt": 2,
+            "urteile": 2,
+            "beschluesse": 0
+          },
+          {
+            "name": "BGH 6. Zivilsenat",
+            "gesamt": 10,
+            "urteile": 3,
+            "beschluesse": 7
+          },
+          {
+            "name": "BGH 12. Zivilsenat",
+            "gesamt": 11,
+            "urteile": 0,
+            "beschluesse": 11
+          },
+          {
+            "name": "BGH 3. Strafsenat",
+            "gesamt": 18,
+            "urteile": 1,
+            "beschluesse": 17
+          },
+          {
+            "name": "BGH 4. Strafsenat",
+            "gesamt": 7,
+            "urteile": 1,
+            "beschluesse": 6
+          },
+          {
+            "name": "BGH Kartellsenat",
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
           },
           {
-            "name": "ArbG Stuttgart 22. Kammer",
+            "name": "BSG 6a. Senat",
+            "gesamt": 2,
+            "urteile": 1,
+            "beschluesse": 1
+          },
+          {
+            "name": "BVerwG 7. Senat",
+            "gesamt": 9,
+            "urteile": 0,
+            "beschluesse": 9
+          },
+          {
+            "name": "BGH 1. Strafsenat",
+            "gesamt": 7,
+            "urteile": 0,
+            "beschluesse": 7
+          },
+          {
+            "name": "BVerwG 2. Senat",
+            "gesamt": 6,
+            "urteile": 2,
+            "beschluesse": 4
+          },
+          {
+            "name": "BVerwG 9. Senat",
+            "gesamt": 6,
+            "urteile": 2,
+            "beschluesse": 4
+          },
+          {
+            "name": "BFH 5. Senat",
+            "gesamt": 3,
+            "urteile": 1,
+            "beschluesse": 2
+          },
+          {
+            "name": "BFH 1. Senat",
+            "gesamt": 3,
+            "urteile": 2,
+            "beschluesse": 1
+          },
+          {
+            "name": "BFH 2. Senat",
+            "gesamt": 3,
+            "urteile": 3,
+            "beschluesse": 0
+          },
+          {
+            "name": "BGH 6a. Zivilsenat",
+            "gesamt": 12,
+            "urteile": 5,
+            "beschluesse": 7
+          },
+          {
+            "name": "BGH Senat für Anwaltssachen",
+            "gesamt": 2,
+            "urteile": 0,
+            "beschluesse": 2
+          },
+          {
+            "name": "BGH 6. Strafsenat",
+            "gesamt": 11,
+            "urteile": 1,
+            "beschluesse": 10
+          },
+          {
+            "name": "BGH 9. Zivilsenat",
+            "gesamt": 6,
+            "urteile": 2,
+            "beschluesse": 4
+          },
+          {
+            "name": "BGH Dienstgericht des Bundes",
+            "gesamt": 2,
+            "urteile": 1,
+            "beschluesse": 1
+          },
+          {
+            "name": "BAG 2. Senat",
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
           },
+          {
+            "name": "BSG 4. Senat",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "BGH Senat für Notarsachen",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "BSG 11. Senat",
+            "gesamt": 4,
+            "urteile": 2,
+            "beschluesse": 2
+          },
+          {
+            "name": "BVerwG 2. Wehrdienstsenat",
+            "gesamt": 6,
+            "urteile": 2,
+            "beschluesse": 4
+          },
+          {
+            "name": "BVerwG 1. Senat",
+            "gesamt": 3,
+            "urteile": 1,
+            "beschluesse": 2
+          },
+          {
+            "name": "BGH 1. Zivilsenat",
+            "gesamt": 4,
+            "urteile": 3,
+            "beschluesse": 1
+          },
+          {
+            "name": "BGH 3. Zivilsenat",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "BAG 8. Senat",
+            "gesamt": 3,
+            "urteile": 2,
+            "beschluesse": 0
+          },
+          {
+            "name": "BSG 7. Senat",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "BFH 8. Senat",
+            "gesamt": 4,
+            "urteile": 2,
+            "beschluesse": 2
+          },
+          {
+            "name": "BAG 1. Senat",
+            "gesamt": 4,
+            "urteile": 4,
+            "beschluesse": 0
+          },
+          {
+            "name": "BGH 2. Zivilsenat",
+            "gesamt": 2,
+            "urteile": 0,
+            "beschluesse": 2
+          },
+          {
+            "name": "BGH 7. Zivilsenat",
+            "gesamt": 5,
+            "urteile": 0,
+            "beschluesse": 5
+          },
+          {
+            "name": "BSG 3. Senat",
+            "gesamt": 3,
+            "urteile": 3,
+            "beschluesse": 0
+          },
+          {
+            "name": "BAG 4. Senat",
+            "gesamt": 3,
+            "urteile": 2,
+            "beschluesse": 1
+          },
+          {
+            "name": "BAG 10. Senat",
+            "gesamt": 5,
+            "urteile": 5,
+            "beschluesse": 0
+          },
+          {
+            "name": "BAG 7. Senat",
+            "gesamt": 3,
+            "urteile": 1,
+            "beschluesse": 2
+          },
+          {
+            "name": "BSG 10. Senat",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "BSG 9. Senat",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "BSG 8. Senat",
+            "gesamt": 2,
+            "urteile": 1,
+            "beschluesse": 1
+          },
+          {
+            "name": "BSG 5. Senat",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "BSG 12. Senat",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "BFH 6. Senat",
+            "gesamt": 2,
+            "urteile": 2,
+            "beschluesse": 0
+          },
+          {
+            "name": "BFH 10. Senat",
+            "gesamt": 3,
+            "urteile": 3,
+            "beschluesse": 0
+          },
+          {
+            "name": "BAG 6. Senat",
+            "gesamt": 2,
+            "urteile": 2,
+            "beschluesse": 0
+          },
+          {
+            "name": "BVerwG 10. Senat",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "BVerwG 6. Senat",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "BSG 2. Senat",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          }
+        ]
+      },
+      {
+        "bundesland": "baden-württemberg",
+        "gerichte": [
           {
             "name": "Landesarbeitsgericht Baden-Württemberg 17. Kammer",
             "gesamt": 1,
@@ -386,417 +725,24 @@
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
-          }
-        ]
-      },
-      {
-        "bundesland": "saarland",
-        "gerichte": [
-          {
-            "name": "Oberverwaltungsgericht des Saarlandes 1. Senat",
-            "gesamt": 2,
-            "urteile": 0,
-            "beschluesse": 2
-          }
-        ]
-      },
-      {
-        "bundesland": "bund",
-        "gerichte": [
-          {
-            "name": "BFH 9. Senat",
-            "gesamt": 3,
-            "urteile": 1,
-            "beschluesse": 2
           },
           {
-            "name": "BFH 10. Senat",
-            "gesamt": 3,
-            "urteile": 3,
-            "beschluesse": 0
-          },
-          {
-            "name": "BFH 5. Senat",
-            "gesamt": 4,
-            "urteile": 1,
-            "beschluesse": 3
-          },
-          {
-            "name": "BFH 8. Senat",
-            "gesamt": 3,
-            "urteile": 2,
-            "beschluesse": 1
-          },
-          {
-            "name": "BFH 7. Senat",
-            "gesamt": 2,
-            "urteile": 0,
-            "beschluesse": 2
-          },
-          {
-            "name": "BFH 1. Senat",
-            "gesamt": 5,
-            "urteile": 3,
-            "beschluesse": 2
-          },
-          {
-            "name": "BFH 3. Senat",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "BVerwG 5. Senat",
-            "gesamt": 3,
-            "urteile": 2,
-            "beschluesse": 1
-          },
-          {
-            "name": "BVerwG 1. Senat",
-            "gesamt": 3,
-            "urteile": 0,
-            "beschluesse": 3
-          },
-          {
-            "name": "BVerwG 1. Wehrdienstsenat",
-            "gesamt": 7,
-            "urteile": 0,
-            "beschluesse": 7
-          },
-          {
-            "name": "BVerwG 2. Wehrdienstsenat",
-            "gesamt": 6,
-            "urteile": 2,
-            "beschluesse": 4
-          },
-          {
-            "name": "BGH 6a. Zivilsenat",
-            "gesamt": 13,
-            "urteile": 6,
-            "beschluesse": 7
-          },
-          {
-            "name": "BGH 2. Strafsenat",
-            "gesamt": 32,
-            "urteile": 4,
-            "beschluesse": 28
-          },
-          {
-            "name": "BGH 5. Zivilsenat",
-            "gesamt": 7,
-            "urteile": 2,
-            "beschluesse": 5
-          },
-          {
-            "name": "BGH 5. Strafsenat",
-            "gesamt": 25,
-            "urteile": 1,
-            "beschluesse": 24
-          },
-          {
-            "name": "BGH 9. Zivilsenat",
-            "gesamt": 7,
-            "urteile": 2,
-            "beschluesse": 5
-          },
-          {
-            "name": "BAG 1. Senat",
-            "gesamt": 5,
-            "urteile": 4,
-            "beschluesse": 1
-          },
-          {
-            "name": "BAG 3. Senat",
-            "gesamt": 2,
-            "urteile": 2,
-            "beschluesse": 0
-          },
-          {
-            "name": "BVerwG 4. Senat",
-            "gesamt": 6,
-            "urteile": 1,
-            "beschluesse": 5
-          },
-          {
-            "name": "BGH 11. Zivilsenat",
-            "gesamt": 11,
-            "urteile": 1,
-            "beschluesse": 10
-          },
-          {
-            "name": "BGH 8. Zivilsenat",
-            "gesamt": 10,
-            "urteile": 5,
-            "beschluesse": 5
-          },
-          {
-            "name": "BGH 4. Zivilsenat",
-            "gesamt": 5,
-            "urteile": 2,
-            "beschluesse": 3
-          },
-          {
-            "name": "BGH 10. Zivilsenat",
-            "gesamt": 5,
-            "urteile": 4,
-            "beschluesse": 1
-          },
-          {
-            "name": "BVerwG 8. Senat",
-            "gesamt": 8,
-            "urteile": 1,
-            "beschluesse": 7
-          },
-          {
-            "name": "BVerwG 3. Senat",
-            "gesamt": 3,
-            "urteile": 0,
-            "beschluesse": 3
-          },
-          {
-            "name": "BGH 6. Zivilsenat",
-            "gesamt": 10,
-            "urteile": 3,
-            "beschluesse": 7
-          },
-          {
-            "name": "BGH 12. Zivilsenat",
-            "gesamt": 10,
-            "urteile": 0,
-            "beschluesse": 10
-          },
-          {
-            "name": "BGH 3. Strafsenat",
-            "gesamt": 18,
-            "urteile": 1,
-            "beschluesse": 17
-          },
-          {
-            "name": "BGH 4. Strafsenat",
-            "gesamt": 7,
-            "urteile": 1,
-            "beschluesse": 6
-          },
-          {
-            "name": "BGH Kartellsenat",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "BSG 6a. Senat",
+            "name": "Landesarbeitsgericht Baden-Württemberg 11. Kammer",
             "gesamt": 2,
             "urteile": 1,
             "beschluesse": 1
           },
           {
-            "name": "BVerwG 7. Senat",
-            "gesamt": 9,
-            "urteile": 0,
-            "beschluesse": 9
-          },
-          {
-            "name": "BGH 1. Strafsenat",
-            "gesamt": 7,
-            "urteile": 0,
-            "beschluesse": 7
-          },
-          {
-            "name": "BVerwG 2. Senat",
-            "gesamt": 6,
-            "urteile": 2,
-            "beschluesse": 4
-          },
-          {
-            "name": "BVerwG 9. Senat",
-            "gesamt": 6,
-            "urteile": 2,
-            "beschluesse": 4
-          },
-          {
-            "name": "BFH 2. Senat",
-            "gesamt": 2,
-            "urteile": 2,
-            "beschluesse": 0
-          },
-          {
-            "name": "BGH Senat für Anwaltssachen",
-            "gesamt": 2,
-            "urteile": 0,
-            "beschluesse": 2
-          },
-          {
-            "name": "BGH 6. Strafsenat",
-            "gesamt": 9,
-            "urteile": 0,
-            "beschluesse": 9
-          },
-          {
-            "name": "BGH Dienstgericht des Bundes",
-            "gesamt": 2,
-            "urteile": 1,
-            "beschluesse": 1
-          },
-          {
-            "name": "BAG 2. Senat",
+            "name": "Landesarbeitsgericht Baden-Württemberg 15. Kammer",
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
           },
           {
-            "name": "BSG 4. Senat",
+            "name": "ArbG Mannheim 8. Kammer",
             "gesamt": 1,
             "urteile": 0,
             "beschluesse": 1
-          },
-          {
-            "name": "BGH Senat für Notarsachen",
-            "gesamt": 1,
-            "urteile": 0,
-            "beschluesse": 1
-          },
-          {
-            "name": "BSG 11. Senat",
-            "gesamt": 4,
-            "urteile": 2,
-            "beschluesse": 2
-          },
-          {
-            "name": "BGH 1. Zivilsenat",
-            "gesamt": 3,
-            "urteile": 3,
-            "beschluesse": 0
-          },
-          {
-            "name": "BGH 3. Zivilsenat",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "BAG 8. Senat",
-            "gesamt": 3,
-            "urteile": 2,
-            "beschluesse": 0
-          },
-          {
-            "name": "BSG 7. Senat",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "BGH 2. Zivilsenat",
-            "gesamt": 2,
-            "urteile": 0,
-            "beschluesse": 2
-          },
-          {
-            "name": "BGH 7. Zivilsenat",
-            "gesamt": 5,
-            "urteile": 0,
-            "beschluesse": 5
-          },
-          {
-            "name": "BSG 3. Senat",
-            "gesamt": 3,
-            "urteile": 3,
-            "beschluesse": 0
-          },
-          {
-            "name": "BAG 4. Senat",
-            "gesamt": 3,
-            "urteile": 2,
-            "beschluesse": 1
-          },
-          {
-            "name": "BAG 10. Senat",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "BAG 7. Senat",
-            "gesamt": 3,
-            "urteile": 1,
-            "beschluesse": 2
-          },
-          {
-            "name": "BSG 10. Senat",
-            "gesamt": 1,
-            "urteile": 0,
-            "beschluesse": 1
-          },
-          {
-            "name": "BSG 9. Senat",
-            "gesamt": 1,
-            "urteile": 0,
-            "beschluesse": 1
-          },
-          {
-            "name": "BSG 8. Senat",
-            "gesamt": 2,
-            "urteile": 1,
-            "beschluesse": 1
-          },
-          {
-            "name": "BSG 5. Senat",
-            "gesamt": 1,
-            "urteile": 0,
-            "beschluesse": 1
-          },
-          {
-            "name": "BSG 12. Senat",
-            "gesamt": 1,
-            "urteile": 0,
-            "beschluesse": 1
-          },
-          {
-            "name": "BFH 6. Senat",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "BAG 6. Senat",
-            "gesamt": 2,
-            "urteile": 2,
-            "beschluesse": 0
-          },
-          {
-            "name": "BVerwG 10. Senat",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "BVerwG 6. Senat",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          }
-        ]
-      },
-      {
-        "bundesland": "thüringen",
-        "gerichte": [
-          {
-            "name": "Thüringer Landesarbeitsgericht 5. Kammer",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "ArbG Nordhausen 3. Kammer",
-            "gesamt": 2,
-            "urteile": 2,
-            "beschluesse": 0
-          },
-          {
-            "name": "ArbG Erfurt 4. Kammer",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
           }
         ]
       },
@@ -813,6 +759,23 @@
             "name": "Landesarbeitsgericht Mecklenburg-Vorpommern 5. Kammer",
             "gesamt": 5,
             "urteile": 5,
+            "beschluesse": 0
+          }
+        ]
+      },
+      {
+        "bundesland": "thüringen",
+        "gerichte": [
+          {
+            "name": "ArbG Nordhausen 3. Kammer",
+            "gesamt": 2,
+            "urteile": 2,
+            "beschluesse": 0
+          },
+          {
+            "name": "ArbG Erfurt 4. Kammer",
+            "gesamt": 1,
+            "urteile": 1,
             "beschluesse": 0
           }
         ]
@@ -841,6 +804,17 @@
         ]
       },
       {
+        "bundesland": "saarland",
+        "gerichte": [
+          {
+            "name": "Oberverwaltungsgericht des Saarlandes 1. Senat",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          }
+        ]
+      },
+      {
         "bundesland": "schleswig-holstein",
         "gerichte": [
           {
@@ -854,6 +828,24 @@
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
+          },
+          {
+            "name": "Landesarbeitsgericht Schleswig-Holstein 2. Kammer",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "Landesarbeitsgericht Schleswig-Holstein 3. Kammer",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "Landesarbeitsgericht Schleswig-Holstein 1. Kammer",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
           }
         ]
       },
@@ -993,10 +985,10 @@
     ]
   },
   "gesamt": {
-    "total": 127219,
-    "beschluesse": 47697,
-    "urteile": 63957,
-    "inPhibox": 127219,
+    "total": 127255,
+    "beschluesse": 47714,
+    "urteile": 63976,
+    "inPhibox": 127255,
     "nichtInPhibox": 0,
     "byBundesland": [
       {
@@ -1045,11 +1037,11 @@
       },
       {
         "name": "baden-württemberg",
-        "anzahl": 3708
+        "anzahl": 3712
       },
       {
         "name": "bund",
-        "anzahl": 68456
+        "anzahl": 68485
       },
       {
         "name": "mecklenburg-vorpommern",
@@ -1057,7 +1049,7 @@
       },
       {
         "name": "schleswig-holstein",
-        "anzahl": 1059
+        "anzahl": 1062
       },
       {
         "name": "bremen",
@@ -1091,11 +1083,11 @@
       },
       {
         "name": "urteil",
-        "anzahl": 63957
+        "anzahl": 63976
       },
       {
         "name": "beschluss",
-        "anzahl": 47697
+        "anzahl": 47714
       },
       {
         "name": "gesetz",
@@ -1741,7 +1733,7 @@
       },
       {
         "name": "2013-09",
-        "anzahl": 567
+        "anzahl": 568
       },
       {
         "name": "2013-08",
@@ -1921,7 +1913,7 @@
       },
       {
         "name": "2025-02",
-        "anzahl": 385
+        "anzahl": 386
       },
       {
         "name": "2025-05",
@@ -3429,11 +3421,11 @@
       },
       {
         "name": "2025-11",
-        "anzahl": 446
+        "anzahl": 448
       },
       {
         "name": "2025-12",
-        "anzahl": 467
+        "anzahl": 469
       },
       {
         "name": "2026-01",
@@ -3441,33 +3433,33 @@
       },
       {
         "name": "2026-02",
-        "anzahl": 330
+        "anzahl": 332
       },
       {
         "name": "2026-03",
-        "anzahl": 340
+        "anzahl": 346
       },
       {
         "name": "2026-04",
-        "anzahl": 242
+        "anzahl": 251
       },
       {
         "name": "2026-05",
-        "anzahl": 160
+        "anzahl": 168
       },
       {
         "name": "2026-06",
-        "anzahl": 28
+        "anzahl": 33
       }
     ],
     "byPhiboxConnection": [
       {
         "name": "Kein Status",
-        "anzahl": 101938
+        "anzahl": 101956
       },
       {
         "name": "LIVE",
-        "anzahl": 25281
+        "anzahl": 25299
       }
     ],
     "byBundeslandDetail": [
@@ -3594,24 +3586,24 @@
       },
       {
         "bundesland": "baden-württemberg",
-        "gesamt": 3708,
-        "urteile": 2700,
-        "beschluesse": 924,
-        "inPhibox": 3708,
-        "mitSummary3": 6,
-        "ohneSummary3": 3702,
-        "pre": 39,
+        "gesamt": 3712,
+        "urteile": 2702,
+        "beschluesse": 926,
+        "inPhibox": 3712,
+        "mitSummary3": 8,
+        "ohneSummary3": 3704,
+        "pre": 42,
         "post": 26
       },
       {
         "bundesland": "bund",
-        "gesamt": 68456,
-        "urteile": 30516,
-        "beschluesse": 37179,
-        "inPhibox": 68456,
-        "mitSummary3": 5933,
-        "ohneSummary3": 62523,
-        "pre": 1164,
+        "gesamt": 68485,
+        "urteile": 30532,
+        "beschluesse": 37192,
+        "inPhibox": 68485,
+        "mitSummary3": 5948,
+        "ohneSummary3": 62537,
+        "pre": 1185,
         "post": 0
       },
       {
@@ -3627,13 +3619,13 @@
       },
       {
         "bundesland": "schleswig-holstein",
-        "gesamt": 1059,
-        "urteile": 710,
-        "beschluesse": 346,
-        "inPhibox": 1059,
-        "mitSummary3": 0,
-        "ohneSummary3": 1059,
-        "pre": 11,
+        "gesamt": 1062,
+        "urteile": 711,
+        "beschluesse": 348,
+        "inPhibox": 1062,
+        "mitSummary3": 1,
+        "ohneSummary3": 1061,
+        "pre": 12,
         "post": 2
       },
       {
@@ -11573,8 +11565,8 @@
           },
           {
             "name": "Landesarbeitsgericht Baden-Württemberg 15. Kammer",
-            "gesamt": 41,
-            "urteile": 31,
+            "gesamt": 42,
+            "urteile": 32,
             "beschluesse": 9
           },
           {
@@ -11597,9 +11589,9 @@
           },
           {
             "name": "ArbG Mannheim 8. Kammer",
-            "gesamt": 17,
+            "gesamt": 18,
             "urteile": 13,
-            "beschluesse": 4
+            "beschluesse": 5
           },
           {
             "name": "LG Tübingen 5. Zivilkammer",
@@ -11801,9 +11793,9 @@
           },
           {
             "name": "Landesarbeitsgericht Baden-Württemberg 11. Kammer",
-            "gesamt": 33,
-            "urteile": 30,
-            "beschluesse": 3
+            "gesamt": 35,
+            "urteile": 31,
+            "beschluesse": 4
           },
           {
             "name": "ArbG Stuttgart 27. Kammer",
@@ -12736,8 +12728,8 @@
           },
           {
             "name": "BSG 2. Senat",
-            "gesamt": 335,
-            "urteile": 243,
+            "gesamt": 336,
+            "urteile": 244,
             "beschluesse": 92
           },
           {
@@ -12766,20 +12758,20 @@
           },
           {
             "name": "BFH 10. Senat",
-            "gesamt": 1293,
-            "urteile": 578,
+            "gesamt": 1295,
+            "urteile": 580,
             "beschluesse": 710
           },
           {
             "name": "BFH 8. Senat",
-            "gesamt": 992,
+            "gesamt": 994,
             "urteile": 547,
-            "beschluesse": 442
+            "beschluesse": 444
           },
           {
             "name": "BFH 6. Senat",
-            "gesamt": 1003,
-            "urteile": 704,
+            "gesamt": 1004,
+            "urteile": 705,
             "beschluesse": 291
           },
           {
@@ -12808,8 +12800,8 @@
           },
           {
             "name": "BFH 2. Senat",
-            "gesamt": 872,
-            "urteile": 613,
+            "gesamt": 873,
+            "urteile": 614,
             "beschluesse": 254
           },
           {
@@ -12874,27 +12866,27 @@
           },
           {
             "name": "BVerwG 2. Wehrdienstsenat",
-            "gesamt": 394,
+            "gesamt": 395,
             "urteile": 222,
-            "beschluesse": 172
+            "beschluesse": 173
           },
           {
             "name": "BVerwG 8. Senat",
-            "gesamt": 873,
+            "gesamt": 874,
             "urteile": 274,
-            "beschluesse": 593
+            "beschluesse": 594
           },
           {
             "name": "BVerwG 4. Senat",
-            "gesamt": 1167,
+            "gesamt": 1168,
             "urteile": 251,
-            "beschluesse": 913
+            "beschluesse": 914
           },
           {
             "name": "BVerwG 1. Wehrdienstsenat",
-            "gesamt": 671,
+            "gesamt": 674,
             "urteile": 0,
-            "beschluesse": 671
+            "beschluesse": 674
           },
           {
             "name": "BVerwG 7. Senat",
@@ -12916,8 +12908,8 @@
           },
           {
             "name": "BVerwG 1. Senat",
-            "gesamt": 762,
-            "urteile": 313,
+            "gesamt": 763,
+            "urteile": 314,
             "beschluesse": 427
           },
           {
@@ -12940,14 +12932,14 @@
           },
           {
             "name": "BGH 6a. Zivilsenat",
-            "gesamt": 1330,
-            "urteile": 1006,
+            "gesamt": 1332,
+            "urteile": 1008,
             "beschluesse": 320
           },
           {
             "name": "BGH 5. Zivilsenat",
-            "gesamt": 1933,
-            "urteile": 753,
+            "gesamt": 1935,
+            "urteile": 755,
             "beschluesse": 1131
           },
           {
@@ -12994,9 +12986,9 @@
           },
           {
             "name": "BGH 6. Strafsenat",
-            "gesamt": 905,
-            "urteile": 124,
-            "beschluesse": 780
+            "gesamt": 907,
+            "urteile": 125,
+            "beschluesse": 781
           },
           {
             "name": "BGH 3. Strafsenat",
@@ -13006,14 +12998,14 @@
           },
           {
             "name": "BGH 1. Zivilsenat",
-            "gesamt": 1973,
+            "gesamt": 1974,
             "urteile": 979,
-            "beschluesse": 908
+            "beschluesse": 909
           },
           {
             "name": "BGH 11. Zivilsenat",
-            "gesamt": 969,
-            "urteile": 492,
+            "gesamt": 970,
+            "urteile": 493,
             "beschluesse": 463
           },
           {
@@ -13042,15 +13034,15 @@
           },
           {
             "name": "BGH 7. Zivilsenat",
-            "gesamt": 1317,
+            "gesamt": 1318,
             "urteile": 430,
-            "beschluesse": 870
+            "beschluesse": 871
           },
           {
             "name": "BGH 12. Zivilsenat",
-            "gesamt": 2366,
+            "gesamt": 2367,
             "urteile": 298,
-            "beschluesse": 2044
+            "beschluesse": 2045
           },
           {
             "name": "BGH Senat für Landwirtschaftssachen",
@@ -13060,9 +13052,9 @@
           },
           {
             "name": "BGH 2. Strafsenat",
-            "gesamt": 2567,
+            "gesamt": 2568,
             "urteile": 511,
-            "beschluesse": 2054
+            "beschluesse": 2055
           },
           {
             "name": "BGH 6. Zivilsenat",
@@ -13156,8 +13148,8 @@
           },
           {
             "name": "BAG 10. Senat",
-            "gesamt": 854,
-            "urteile": 763,
+            "gesamt": 858,
+            "urteile": 767,
             "beschluesse": 81
           },
           {
@@ -13820,21 +13812,21 @@
           },
           {
             "name": "Landesarbeitsgericht Schleswig-Holstein 3. Kammer",
-            "gesamt": 105,
-            "urteile": 54,
+            "gesamt": 106,
+            "urteile": 55,
             "beschluesse": 51
           },
           {
             "name": "Landesarbeitsgericht Schleswig-Holstein 1. Kammer",
-            "gesamt": 193,
+            "gesamt": 194,
             "urteile": 111,
-            "beschluesse": 82
+            "beschluesse": 83
           },
           {
             "name": "Landesarbeitsgericht Schleswig-Holstein 2. Kammer",
-            "gesamt": 54,
+            "gesamt": 55,
             "urteile": 32,
-            "beschluesse": 22
+            "beschluesse": 23
           },
           {
             "name": "Landesarbeitsgericht Schleswig-Holstein 4. Kammer",
@@ -15649,5 +15641,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T13:54:31.313Z"
+  "updatedAt": "2026-06-27T11:58:29.559Z"
 }
