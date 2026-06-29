@@ -990,14 +990,14 @@
   },
   "gesamt": {
     "total": 127272,
-    "beschluesse": 46894,
-    "urteile": 63166,
-    "inPhibox": 125600,
+    "beschluesse": 47729,
+    "urteile": 63978,
+    "inPhibox": 127272,
     "nichtInPhibox": 0,
     "byBundesland": [
       {
         "name": "rheinland-pfalz",
-        "anzahl": 8395
+        "anzahl": 8498
       },
       {
         "name": "saarland",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Unbekannt",
-        "anzahl": 14231
+        "anzahl": 14232
       },
       {
         "name": "hamburg",
@@ -1041,11 +1041,11 @@
       },
       {
         "name": "baden-württemberg",
-        "anzahl": 3695
+        "anzahl": 3712
       },
       {
         "name": "bund",
-        "anzahl": 67345
+        "anzahl": 68502
       },
       {
         "name": "mecklenburg-vorpommern",
@@ -1057,7 +1057,7 @@
       },
       {
         "name": "bremen",
-        "anzahl": 299
+        "anzahl": 370
       },
       {
         "name": "nordrhein-westfalen",
@@ -1065,7 +1065,7 @@
       },
       {
         "name": "sachsen",
-        "anzahl": 237
+        "anzahl": 560
       }
     ],
     "byDoctype": [
@@ -1087,11 +1087,11 @@
       },
       {
         "name": "urteil",
-        "anzahl": 63166
+        "anzahl": 63978
       },
       {
         "name": "beschluss",
-        "anzahl": 46894
+        "anzahl": 47729
       },
       {
         "name": "gesetz",
@@ -1099,15 +1099,15 @@
       },
       {
         "name": "eugh-vorlage",
-        "anzahl": 368
+        "anzahl": 376
       },
       {
         "name": "vorlagebeschluss",
-        "anzahl": 90
+        "anzahl": 93
       },
       {
         "name": "teilurteil",
-        "anzahl": 168
+        "anzahl": 172
       },
       {
         "name": "gerichtsbescheid",
@@ -1139,11 +1139,11 @@
       },
       {
         "name": "anerkenntnisurteil",
-        "anzahl": 31
+        "anzahl": 32
       },
       {
         "name": "versäumnisurteil",
-        "anzahl": 256
+        "anzahl": 262
       },
       {
         "name": "verfügung",
@@ -1151,6 +1151,10 @@
       },
       {
         "name": "ergänzungsurteil",
+        "anzahl": 1
+      },
+      {
+        "name": "teilversäumnisurteil",
         "anzahl": 1
       },
       {
@@ -1162,6 +1166,10 @@
         "anzahl": 33
       },
       {
+        "name": "zweites_versäumnisuteil",
+        "anzahl": 1
+      },
+      {
         "name": "beschwerdekammerbeschluss",
         "anzahl": 1
       },
@@ -1171,7 +1179,7 @@
       },
       {
         "name": "bmf-schreiben",
-        "anzahl": 548
+        "anzahl": 549
       },
       {
         "name": "dba",
@@ -1181,23 +1189,23 @@
     "byMonat": [
       {
         "name": "2010-12",
-        "anzahl": 690
+        "anzahl": 693
       },
       {
         "name": "2015-04",
-        "anzahl": 494
+        "anzahl": 497
       },
       {
         "name": "2017-05",
-        "anzahl": 569
+        "anzahl": 570
       },
       {
         "name": "Unbekannt",
-        "anzahl": 14231
+        "anzahl": 14232
       },
       {
         "name": "2021-09",
-        "anzahl": 343
+        "anzahl": 347
       },
       {
         "name": "2016-07",
@@ -1209,7 +1217,7 @@
       },
       {
         "name": "2018-10",
-        "anzahl": 446
+        "anzahl": 447
       },
       {
         "name": "2014-02",
@@ -1217,11 +1225,11 @@
       },
       {
         "name": "2011-12",
-        "anzahl": 715
+        "anzahl": 716
       },
       {
         "name": "2020-01",
-        "anzahl": 399
+        "anzahl": 400
       },
       {
         "name": "2017-06",
@@ -1229,11 +1237,11 @@
       },
       {
         "name": "2017-09",
-        "anzahl": 461
+        "anzahl": 462
       },
       {
         "name": "2017-10",
-        "anzahl": 510
+        "anzahl": 511
       },
       {
         "name": "2017-08",
@@ -1241,7 +1249,7 @@
       },
       {
         "name": "2017-04",
-        "anzahl": 468
+        "anzahl": 469
       },
       {
         "name": "2014-04",
@@ -1249,7 +1257,7 @@
       },
       {
         "name": "2017-07",
-        "anzahl": 495
+        "anzahl": 496
       },
       {
         "name": "2017-11",
@@ -1257,11 +1265,11 @@
       },
       {
         "name": "2021-01",
-        "anzahl": 333
+        "anzahl": 335
       },
       {
         "name": "2024-10",
-        "anzahl": 478
+        "anzahl": 487
       },
       {
         "name": "2017-12",
@@ -1273,7 +1281,7 @@
       },
       {
         "name": "2019-01",
-        "anzahl": 497
+        "anzahl": 498
       },
       {
         "name": "2019-04",
@@ -1281,7 +1289,7 @@
       },
       {
         "name": "2020-05",
-        "anzahl": 512
+        "anzahl": 513
       },
       {
         "name": "2019-06",
@@ -1289,35 +1297,35 @@
       },
       {
         "name": "2019-08",
-        "anzahl": 383
+        "anzahl": 384
       },
       {
         "name": "2024-04",
-        "anzahl": 504
+        "anzahl": 507
       },
       {
         "name": "2024-05",
-        "anzahl": 450
+        "anzahl": 451
       },
       {
         "name": "2024-11",
-        "anzahl": 449
+        "anzahl": 532
       },
       {
         "name": "2024-12",
-        "anzahl": 417
+        "anzahl": 554
       },
       {
         "name": "2024-09",
-        "anzahl": 449
+        "anzahl": 450
       },
       {
         "name": "2024-08",
-        "anzahl": 392
+        "anzahl": 394
       },
       {
         "name": "2024-07",
-        "anzahl": 554
+        "anzahl": 556
       },
       {
         "name": "2024-06",
@@ -1325,23 +1333,23 @@
       },
       {
         "name": "2024-03",
-        "anzahl": 538
+        "anzahl": 541
       },
       {
         "name": "2024-02",
-        "anzahl": 565
+        "anzahl": 569
       },
       {
         "name": "2024-01",
-        "anzahl": 543
+        "anzahl": 544
       },
       {
         "name": "2023-12",
-        "anzahl": 502
+        "anzahl": 507
       },
       {
         "name": "2023-11",
-        "anzahl": 534
+        "anzahl": 535
       },
       {
         "name": "2023-10",
@@ -1349,7 +1357,7 @@
       },
       {
         "name": "2023-09",
-        "anzahl": 431
+        "anzahl": 432
       },
       {
         "name": "2023-08",
@@ -1357,7 +1365,7 @@
       },
       {
         "name": "2023-07",
-        "anzahl": 441
+        "anzahl": 442
       },
       {
         "name": "2023-06",
@@ -1373,7 +1381,7 @@
       },
       {
         "name": "2023-03",
-        "anzahl": 568
+        "anzahl": 569
       },
       {
         "name": "2023-02",
@@ -1389,7 +1397,7 @@
       },
       {
         "name": "2022-11",
-        "anzahl": 571
+        "anzahl": 573
       },
       {
         "name": "2022-10",
@@ -1409,7 +1417,7 @@
       },
       {
         "name": "2022-06",
-        "anzahl": 390
+        "anzahl": 392
       },
       {
         "name": "2022-05",
@@ -1421,7 +1429,7 @@
       },
       {
         "name": "2022-03",
-        "anzahl": 412
+        "anzahl": 414
       },
       {
         "name": "2022-02",
@@ -1429,7 +1437,7 @@
       },
       {
         "name": "2022-01",
-        "anzahl": 399
+        "anzahl": 400
       },
       {
         "name": "2021-12",
@@ -1437,7 +1445,7 @@
       },
       {
         "name": "2021-11",
-        "anzahl": 470
+        "anzahl": 472
       },
       {
         "name": "2021-10",
@@ -1445,7 +1453,7 @@
       },
       {
         "name": "2021-08",
-        "anzahl": 265
+        "anzahl": 266
       },
       {
         "name": "2021-07",
@@ -1457,11 +1465,11 @@
       },
       {
         "name": "2021-05",
-        "anzahl": 382
+        "anzahl": 383
       },
       {
         "name": "2021-04",
-        "anzahl": 399
+        "anzahl": 400
       },
       {
         "name": "2021-03",
@@ -1469,19 +1477,19 @@
       },
       {
         "name": "2021-02",
-        "anzahl": 411
+        "anzahl": 412
       },
       {
         "name": "2020-11",
-        "anzahl": 470
+        "anzahl": 471
       },
       {
         "name": "2020-10",
-        "anzahl": 423
+        "anzahl": 424
       },
       {
         "name": "2020-09",
-        "anzahl": 467
+        "anzahl": 468
       },
       {
         "name": "2020-08",
@@ -1493,7 +1501,7 @@
       },
       {
         "name": "2020-06",
-        "anzahl": 454
+        "anzahl": 455
       },
       {
         "name": "2020-04",
@@ -1509,27 +1517,27 @@
       },
       {
         "name": "2019-11",
-        "anzahl": 470
+        "anzahl": 471
       },
       {
         "name": "2019-10",
-        "anzahl": 460
+        "anzahl": 462
       },
       {
         "name": "2019-09",
-        "anzahl": 458
+        "anzahl": 461
       },
       {
         "name": "2019-07",
-        "anzahl": 452
+        "anzahl": 453
       },
       {
         "name": "2019-05",
-        "anzahl": 434
+        "anzahl": 436
       },
       {
         "name": "2019-03",
-        "anzahl": 484
+        "anzahl": 488
       },
       {
         "name": "2019-02",
@@ -1541,7 +1549,7 @@
       },
       {
         "name": "2018-11",
-        "anzahl": 486
+        "anzahl": 490
       },
       {
         "name": "2018-09",
@@ -1557,7 +1565,7 @@
       },
       {
         "name": "2018-06",
-        "anzahl": 477
+        "anzahl": 478
       },
       {
         "name": "2018-05",
@@ -1569,11 +1577,11 @@
       },
       {
         "name": "2018-03",
-        "anzahl": 403
+        "anzahl": 404
       },
       {
         "name": "2018-02",
-        "anzahl": 306
+        "anzahl": 307
       },
       {
         "name": "2018-01",
@@ -1581,11 +1589,11 @@
       },
       {
         "name": "2017-03",
-        "anzahl": 690
+        "anzahl": 691
       },
       {
         "name": "2017-02",
-        "anzahl": 499
+        "anzahl": 501
       },
       {
         "name": "2017-01",
@@ -1593,11 +1601,11 @@
       },
       {
         "name": "2016-12",
-        "anzahl": 540
+        "anzahl": 541
       },
       {
         "name": "2016-11",
-        "anzahl": 519
+        "anzahl": 524
       },
       {
         "name": "2016-10",
@@ -1605,11 +1613,11 @@
       },
       {
         "name": "2016-09",
-        "anzahl": 541
+        "anzahl": 543
       },
       {
         "name": "2016-08",
-        "anzahl": 389
+        "anzahl": 392
       },
       {
         "name": "2016-06",
@@ -1617,7 +1625,7 @@
       },
       {
         "name": "2016-05",
-        "anzahl": 418
+        "anzahl": 421
       },
       {
         "name": "2016-04",
@@ -1625,51 +1633,51 @@
       },
       {
         "name": "2016-03",
-        "anzahl": 615
+        "anzahl": 618
       },
       {
         "name": "2016-02",
-        "anzahl": 490
+        "anzahl": 522
       },
       {
         "name": "2016-01",
-        "anzahl": 430
+        "anzahl": 462
       },
       {
         "name": "2015-12",
-        "anzahl": 519
+        "anzahl": 572
       },
       {
         "name": "2015-11",
-        "anzahl": 490
+        "anzahl": 556
       },
       {
         "name": "2015-10",
-        "anzahl": 455
+        "anzahl": 526
       },
       {
         "name": "2015-09",
-        "anzahl": 475
+        "anzahl": 591
       },
       {
         "name": "2015-08",
-        "anzahl": 354
+        "anzahl": 396
       },
       {
         "name": "2015-07",
-        "anzahl": 450
+        "anzahl": 539
       },
       {
         "name": "2015-06",
-        "anzahl": 503
+        "anzahl": 573
       },
       {
         "name": "2015-05",
-        "anzahl": 414
+        "anzahl": 433
       },
       {
         "name": "2015-03",
-        "anzahl": 516
+        "anzahl": 519
       },
       {
         "name": "2015-02",
@@ -1677,43 +1685,43 @@
       },
       {
         "name": "2015-01",
-        "anzahl": 467
+        "anzahl": 468
       },
       {
         "name": "2014-12",
-        "anzahl": 560
+        "anzahl": 562
       },
       {
         "name": "2014-11",
-        "anzahl": 543
+        "anzahl": 545
       },
       {
         "name": "2014-10",
-        "anzahl": 569
+        "anzahl": 570
       },
       {
         "name": "2014-09",
-        "anzahl": 467
+        "anzahl": 469
       },
       {
         "name": "2014-08",
-        "anzahl": 349
+        "anzahl": 351
       },
       {
         "name": "2014-07",
-        "anzahl": 584
+        "anzahl": 590
       },
       {
         "name": "2014-06",
-        "anzahl": 563
+        "anzahl": 565
       },
       {
         "name": "2014-05",
-        "anzahl": 569
+        "anzahl": 572
       },
       {
         "name": "2014-03",
-        "anzahl": 533
+        "anzahl": 535
       },
       {
         "name": "2013-12",
@@ -1721,11 +1729,11 @@
       },
       {
         "name": "2013-11",
-        "anzahl": 601
+        "anzahl": 602
       },
       {
         "name": "2013-10",
-        "anzahl": 615
+        "anzahl": 616
       },
       {
         "name": "2013-09",
@@ -1733,11 +1741,11 @@
       },
       {
         "name": "2013-08",
-        "anzahl": 446
+        "anzahl": 449
       },
       {
         "name": "2014-01",
-        "anzahl": 504
+        "anzahl": 507
       },
       {
         "name": "2013-07",
@@ -1745,7 +1753,7 @@
       },
       {
         "name": "2013-06",
-        "anzahl": 581
+        "anzahl": 585
       },
       {
         "name": "2013-05",
@@ -1753,7 +1761,7 @@
       },
       {
         "name": "2013-04",
-        "anzahl": 616
+        "anzahl": 617
       },
       {
         "name": "2013-03",
@@ -1761,15 +1769,15 @@
       },
       {
         "name": "2013-02",
-        "anzahl": 535
+        "anzahl": 536
       },
       {
         "name": "2013-01",
-        "anzahl": 544
+        "anzahl": 547
       },
       {
         "name": "2012-12",
-        "anzahl": 584
+        "anzahl": 585
       },
       {
         "name": "2012-11",
@@ -1777,103 +1785,103 @@
       },
       {
         "name": "2012-10",
-        "anzahl": 638
+        "anzahl": 643
       },
       {
         "name": "2012-09",
-        "anzahl": 573
+        "anzahl": 587
       },
       {
         "name": "2012-08",
-        "anzahl": 559
+        "anzahl": 561
       },
       {
         "name": "2012-07",
-        "anzahl": 574
+        "anzahl": 585
       },
       {
         "name": "2012-06",
-        "anzahl": 568
+        "anzahl": 576
       },
       {
         "name": "2012-05",
-        "anzahl": 670
+        "anzahl": 680
       },
       {
         "name": "2012-04",
-        "anzahl": 500
+        "anzahl": 508
       },
       {
         "name": "2012-03",
-        "anzahl": 770
+        "anzahl": 778
       },
       {
         "name": "2012-02",
-        "anzahl": 706
+        "anzahl": 709
       },
       {
         "name": "2012-01",
-        "anzahl": 582
-      },
-      {
-        "name": "2011-11",
-        "anzahl": 737
-      },
-      {
-        "name": "2011-10",
-        "anzahl": 712
-      },
-      {
-        "name": "2011-09",
-        "anzahl": 649
-      },
-      {
-        "name": "2011-08",
         "anzahl": 584
       },
       {
+        "name": "2011-11",
+        "anzahl": 739
+      },
+      {
+        "name": "2011-10",
+        "anzahl": 713
+      },
+      {
+        "name": "2011-09",
+        "anzahl": 651
+      },
+      {
+        "name": "2011-08",
+        "anzahl": 589
+      },
+      {
         "name": "2011-07",
-        "anzahl": 597
+        "anzahl": 601
       },
       {
         "name": "2011-06",
-        "anzahl": 673
+        "anzahl": 674
       },
       {
         "name": "2011-05",
-        "anzahl": 728
+        "anzahl": 733
       },
       {
         "name": "2011-04",
-        "anzahl": 617
+        "anzahl": 621
       },
       {
         "name": "2011-03",
-        "anzahl": 743
+        "anzahl": 744
       },
       {
         "name": "2011-02",
-        "anzahl": 677
+        "anzahl": 678
       },
       {
         "name": "2011-01",
-        "anzahl": 592
+        "anzahl": 593
       },
       {
         "name": "2010-11",
-        "anzahl": 665
+        "anzahl": 670
       },
       {
         "name": "2010-10",
-        "anzahl": 657
+        "anzahl": 659
       },
       {
         "name": "2010-09",
-        "anzahl": 667
+        "anzahl": 671
       },
       {
         "name": "2010-08",
-        "anzahl": 495
+        "anzahl": 497
       },
       {
         "name": "2010-07",
@@ -1889,71 +1897,71 @@
       },
       {
         "name": "2010-04",
-        "anzahl": 624
+        "anzahl": 626
       },
       {
         "name": "2010-03",
-        "anzahl": 738
+        "anzahl": 740
       },
       {
         "name": "2010-02",
-        "anzahl": 745
+        "anzahl": 752
       },
       {
         "name": "2010-01",
-        "anzahl": 634
+        "anzahl": 635
       },
       {
         "name": "2025-01",
-        "anzahl": 467
+        "anzahl": 494
       },
       {
         "name": "2025-02",
-        "anzahl": 353
+        "anzahl": 386
       },
       {
         "name": "2025-05",
-        "anzahl": 441
+        "anzahl": 490
       },
       {
         "name": "2025-03",
-        "anzahl": 440
+        "anzahl": 476
       },
       {
         "name": "2025-04",
-        "anzahl": 369
+        "anzahl": 397
       },
       {
         "name": "2025-06",
-        "anzahl": 384
+        "anzahl": 431
       },
       {
         "name": "2025-07",
-        "anzahl": 469
+        "anzahl": 522
       },
       {
         "name": "2025-08",
-        "anzahl": 299
+        "anzahl": 321
       },
       {
         "name": "2008-06",
-        "anzahl": 192
+        "anzahl": 195
       },
       {
         "name": "2009-11",
-        "anzahl": 192
+        "anzahl": 199
       },
       {
         "name": "2009-09",
-        "anzahl": 165
+        "anzahl": 170
       },
       {
         "name": "2009-08",
-        "anzahl": 163
+        "anzahl": 166
       },
       {
         "name": "2009-06",
-        "anzahl": 174
+        "anzahl": 176
       },
       {
         "name": "2009-05",
@@ -1961,7 +1969,7 @@
       },
       {
         "name": "2009-04",
-        "anzahl": 166
+        "anzahl": 167
       },
       {
         "name": "2009-02",
@@ -1969,39 +1977,39 @@
       },
       {
         "name": "2009-01",
-        "anzahl": 160
+        "anzahl": 164
       },
       {
         "name": "2009-03",
-        "anzahl": 199
+        "anzahl": 202
       },
       {
         "name": "2008-12",
-        "anzahl": 161
+        "anzahl": 162
       },
       {
         "name": "2008-10",
-        "anzahl": 172
+        "anzahl": 173
       },
       {
         "name": "2008-11",
-        "anzahl": 161
+        "anzahl": 165
       },
       {
         "name": "2008-09",
-        "anzahl": 151
+        "anzahl": 152
       },
       {
         "name": "2008-07",
-        "anzahl": 141
+        "anzahl": 143
       },
       {
         "name": "2008-05",
-        "anzahl": 186
+        "anzahl": 189
       },
       {
         "name": "2008-04",
-        "anzahl": 213
+        "anzahl": 216
       },
       {
         "name": "2008-03",
@@ -2009,35 +2017,35 @@
       },
       {
         "name": "2008-02",
-        "anzahl": 152
+        "anzahl": 155
       },
       {
         "name": "2008-01",
-        "anzahl": 198
+        "anzahl": 205
       },
       {
         "name": "2007-12",
-        "anzahl": 149
+        "anzahl": 152
       },
       {
         "name": "2007-10",
-        "anzahl": 150
+        "anzahl": 151
       },
       {
         "name": "2007-09",
-        "anzahl": 150
-      },
-      {
-        "name": "2007-07",
-        "anzahl": 189
-      },
-      {
-        "name": "2007-05",
         "anzahl": 154
       },
       {
+        "name": "2007-07",
+        "anzahl": 191
+      },
+      {
+        "name": "2007-05",
+        "anzahl": 156
+      },
+      {
         "name": "2007-04",
-        "anzahl": 142
+        "anzahl": 145
       },
       {
         "name": "2007-03",
@@ -2045,123 +2053,123 @@
       },
       {
         "name": "2007-01",
-        "anzahl": 161
-      },
-      {
-        "name": "2006-12",
-        "anzahl": 138
-      },
-      {
-        "name": "2009-10",
-        "anzahl": 155
-      },
-      {
-        "name": "2006-10",
-        "anzahl": 91
-      },
-      {
-        "name": "2009-12",
-        "anzahl": 158
-      },
-      {
-        "name": "2006-09",
-        "anzahl": 120
-      },
-      {
-        "name": "2006-11",
         "anzahl": 164
       },
       {
-        "name": "2006-06",
-        "anzahl": 126
+        "name": "2006-12",
+        "anzahl": 140
       },
       {
-        "name": "2007-08",
-        "anzahl": 178
+        "name": "2009-10",
+        "anzahl": 162
       },
       {
-        "name": "2006-04",
-        "anzahl": 99
+        "name": "2006-10",
+        "anzahl": 94
       },
       {
-        "name": "2008-08",
-        "anzahl": 182
+        "name": "2009-12",
+        "anzahl": 159
       },
       {
-        "name": "2006-07",
-        "anzahl": 129
+        "name": "2006-09",
+        "anzahl": 121
       },
       {
-        "name": "2006-03",
+        "name": "2006-11",
         "anzahl": 168
       },
       {
-        "name": "2006-02",
-        "anzahl": 123
-      },
-      {
-        "name": "2007-02",
-        "anzahl": 135
-      },
-      {
-        "name": "2005-11",
-        "anzahl": 163
-      },
-      {
-        "name": "2005-09",
-        "anzahl": 156
-      },
-      {
-        "name": "2006-01",
-        "anzahl": 137
-      },
-      {
-        "name": "2005-12",
-        "anzahl": 137
-      },
-      {
-        "name": "2005-08",
-        "anzahl": 133
-      },
-      {
-        "name": "2009-07",
-        "anzahl": 146
-      },
-      {
-        "name": "2005-10",
+        "name": "2006-06",
         "anzahl": 128
       },
       {
+        "name": "2007-08",
+        "anzahl": 180
+      },
+      {
+        "name": "2006-04",
+        "anzahl": 106
+      },
+      {
+        "name": "2008-08",
+        "anzahl": 185
+      },
+      {
+        "name": "2006-07",
+        "anzahl": 131
+      },
+      {
+        "name": "2006-03",
+        "anzahl": 169
+      },
+      {
+        "name": "2006-02",
+        "anzahl": 125
+      },
+      {
+        "name": "2007-02",
+        "anzahl": 142
+      },
+      {
+        "name": "2005-11",
+        "anzahl": 167
+      },
+      {
+        "name": "2005-09",
+        "anzahl": 161
+      },
+      {
+        "name": "2006-01",
+        "anzahl": 139
+      },
+      {
+        "name": "2005-12",
+        "anzahl": 141
+      },
+      {
+        "name": "2005-08",
+        "anzahl": 138
+      },
+      {
+        "name": "2009-07",
+        "anzahl": 148
+      },
+      {
+        "name": "2005-10",
+        "anzahl": 130
+      },
+      {
         "name": "2005-07",
-        "anzahl": 151
+        "anzahl": 156
       },
       {
         "name": "2007-11",
-        "anzahl": 146
+        "anzahl": 152
       },
       {
         "name": "2005-05",
-        "anzahl": 117
+        "anzahl": 119
       },
       {
         "name": "2006-05",
-        "anzahl": 123
+        "anzahl": 127
       },
       {
         "name": "2005-03",
-        "anzahl": 133
+        "anzahl": 134
       },
       {
         "name": "2005-06",
-        "anzahl": 145
+        "anzahl": 147
       },
       {
         "name": "2005-02",
-        "anzahl": 111
+        "anzahl": 116
       },
       {
         "name": "2005-04",
-        "anzahl": 143
+        "anzahl": 148
       },
       {
         "name": "2004-12",
@@ -2169,31 +2177,31 @@
       },
       {
         "name": "2007-06",
-        "anzahl": 160
+        "anzahl": 162
       },
       {
         "name": "2004-11",
-        "anzahl": 117
+        "anzahl": 120
       },
       {
         "name": "2004-09",
-        "anzahl": 106
+        "anzahl": 108
       },
       {
         "name": "2005-01",
-        "anzahl": 112
+        "anzahl": 115
       },
       {
         "name": "2004-03",
-        "anzahl": 125
+        "anzahl": 126
       },
       {
         "name": "2004-10",
-        "anzahl": 101
+        "anzahl": 102
       },
       {
         "name": "2004-06",
-        "anzahl": 105
+        "anzahl": 109
       },
       {
         "name": "2006-08",
@@ -2201,11 +2209,11 @@
       },
       {
         "name": "2003-04",
-        "anzahl": 55
+        "anzahl": 56
       },
       {
         "name": "2004-08",
-        "anzahl": 72
+        "anzahl": 75
       },
       {
         "name": "2003-10",
@@ -2213,11 +2221,11 @@
       },
       {
         "name": "2004-05",
-        "anzahl": 92
+        "anzahl": 93
       },
       {
         "name": "2004-01",
-        "anzahl": 92
+        "anzahl": 95
       },
       {
         "name": "2003-11",
@@ -2225,7 +2233,7 @@
       },
       {
         "name": "2003-05",
-        "anzahl": 64
+        "anzahl": 65
       },
       {
         "name": "2001-11",
@@ -2237,7 +2245,7 @@
       },
       {
         "name": "2003-06",
-        "anzahl": 64
+        "anzahl": 65
       },
       {
         "name": "2003-09",
@@ -2249,15 +2257,15 @@
       },
       {
         "name": "2004-04",
-        "anzahl": 92
+        "anzahl": 94
       },
       {
         "name": "2003-08",
-        "anzahl": 41
+        "anzahl": 42
       },
       {
         "name": "2002-11",
-        "anzahl": 69
+        "anzahl": 72
       },
       {
         "name": "2003-01",
@@ -2265,11 +2273,11 @@
       },
       {
         "name": "2004-07",
-        "anzahl": 108
+        "anzahl": 109
       },
       {
         "name": "2003-03",
-        "anzahl": 55
+        "anzahl": 56
       },
       {
         "name": "2001-04",
@@ -2277,7 +2285,7 @@
       },
       {
         "name": "2000-11",
-        "anzahl": 38
+        "anzahl": 39
       },
       {
         "name": "1998-08",
@@ -2289,7 +2297,7 @@
       },
       {
         "name": "2000-07",
-        "anzahl": 35
+        "anzahl": 36
       },
       {
         "name": "1999-09",
@@ -2313,7 +2321,7 @@
       },
       {
         "name": "1999-12",
-        "anzahl": 13
+        "anzahl": 14
       },
       {
         "name": "1999-03",
@@ -2321,7 +2329,7 @@
       },
       {
         "name": "1997-12",
-        "anzahl": 22
+        "anzahl": 23
       },
       {
         "name": "1979-01",
@@ -2349,7 +2357,7 @@
       },
       {
         "name": "1998-11",
-        "anzahl": 23
+        "anzahl": 24
       },
       {
         "name": "1978-04",
@@ -2357,11 +2365,11 @@
       },
       {
         "name": "2001-01",
-        "anzahl": 24
+        "anzahl": 25
       },
       {
         "name": "1997-03",
-        "anzahl": 19
+        "anzahl": 20
       },
       {
         "name": "1995-03",
@@ -2385,7 +2393,7 @@
       },
       {
         "name": "2000-02",
-        "anzahl": 34
+        "anzahl": 35
       },
       {
         "name": "1993-12",
@@ -2393,11 +2401,11 @@
       },
       {
         "name": "2000-08",
-        "anzahl": 29
+        "anzahl": 32
       },
       {
         "name": "1999-11",
-        "anzahl": 26
+        "anzahl": 27
       },
       {
         "name": "1990-03",
@@ -2413,7 +2421,7 @@
       },
       {
         "name": "2002-07",
-        "anzahl": 61
+        "anzahl": 62
       },
       {
         "name": "1998-02",
@@ -2425,15 +2433,15 @@
       },
       {
         "name": "2002-12",
-        "anzahl": 51
+        "anzahl": 52
       },
       {
         "name": "1993-06",
-        "anzahl": 4
+        "anzahl": 5
       },
       {
         "name": "1990-01",
-        "anzahl": 1
+        "anzahl": 3
       },
       {
         "name": "1979-05",
@@ -2453,11 +2461,11 @@
       },
       {
         "name": "2002-06",
-        "anzahl": 57
+        "anzahl": 58
       },
       {
         "name": "1995-12",
-        "anzahl": 15
+        "anzahl": 16
       },
       {
         "name": "2001-03",
@@ -2485,7 +2493,7 @@
       },
       {
         "name": "1996-06",
-        "anzahl": 8
+        "anzahl": 9
       },
       {
         "name": "1981-01",
@@ -2493,11 +2501,11 @@
       },
       {
         "name": "2000-10",
-        "anzahl": 20
+        "anzahl": 21
       },
       {
         "name": "1999-07",
-        "anzahl": 18
+        "anzahl": 20
       },
       {
         "name": "2002-02",
@@ -2513,15 +2521,15 @@
       },
       {
         "name": "1998-07",
-        "anzahl": 16
+        "anzahl": 17
       },
       {
         "name": "2000-03",
-        "anzahl": 37
+        "anzahl": 38
       },
       {
         "name": "1999-06",
-        "anzahl": 25
+        "anzahl": 26
       },
       {
         "name": "1988-11",
@@ -2553,11 +2561,11 @@
       },
       {
         "name": "2001-10",
-        "anzahl": 52
+        "anzahl": 53
       },
       {
         "name": "2001-02",
-        "anzahl": 31
+        "anzahl": 32
       },
       {
         "name": "1988-01",
@@ -2565,11 +2573,11 @@
       },
       {
         "name": "2002-08",
-        "anzahl": 56
+        "anzahl": 58
       },
       {
         "name": "2000-04",
-        "anzahl": 12
+        "anzahl": 15
       },
       {
         "name": "1973-12",
@@ -2581,7 +2589,7 @@
       },
       {
         "name": "2002-01",
-        "anzahl": 56
+        "anzahl": 58
       },
       {
         "name": "1972-10",
@@ -2597,7 +2605,7 @@
       },
       {
         "name": "1986-02",
-        "anzahl": 3
+        "anzahl": 5
       },
       {
         "name": "1982-07",
@@ -2617,7 +2625,7 @@
       },
       {
         "name": "1998-01",
-        "anzahl": 22
+        "anzahl": 23
       },
       {
         "name": "1987-03",
@@ -2629,11 +2637,11 @@
       },
       {
         "name": "1998-09",
-        "anzahl": 14
+        "anzahl": 15
       },
       {
         "name": "2003-02",
-        "anzahl": 57
+        "anzahl": 59
       },
       {
         "name": "1979-10",
@@ -2645,7 +2653,7 @@
       },
       {
         "name": "1998-03",
-        "anzahl": 24
+        "anzahl": 25
       },
       {
         "name": "1992-03",
@@ -2665,7 +2673,7 @@
       },
       {
         "name": "1994-08",
-        "anzahl": 10
+        "anzahl": 11
       },
       {
         "name": "1980-11",
@@ -2681,7 +2689,7 @@
       },
       {
         "name": "2001-07",
-        "anzahl": 27
+        "anzahl": 29
       },
       {
         "name": "1980-05",
@@ -2689,7 +2697,7 @@
       },
       {
         "name": "1995-06",
-        "anzahl": 8
+        "anzahl": 9
       },
       {
         "name": "1977-09",
@@ -2721,7 +2729,7 @@
       },
       {
         "name": "1999-08",
-        "anzahl": 23
+        "anzahl": 24
       },
       {
         "name": "1976-11",
@@ -2741,7 +2749,7 @@
       },
       {
         "name": "1998-04",
-        "anzahl": 16
+        "anzahl": 17
       },
       {
         "name": "1969-06",
@@ -2761,7 +2769,7 @@
       },
       {
         "name": "1996-09",
-        "anzahl": 12
+        "anzahl": 13
       },
       {
         "name": "1997-04",
@@ -2769,7 +2777,7 @@
       },
       {
         "name": "2003-12",
-        "anzahl": 83
+        "anzahl": 85
       },
       {
         "name": "2002-09",
@@ -2789,7 +2797,7 @@
       },
       {
         "name": "1997-06",
-        "anzahl": 22
+        "anzahl": 23
       },
       {
         "name": "2002-05",
@@ -2817,7 +2825,7 @@
       },
       {
         "name": "1999-02",
-        "anzahl": 13
+        "anzahl": 14
       },
       {
         "name": "1998-10",
@@ -2825,15 +2833,15 @@
       },
       {
         "name": "1998-05",
-        "anzahl": 15
+        "anzahl": 16
       },
       {
         "name": "1997-05",
-        "anzahl": 22
+        "anzahl": 24
       },
       {
         "name": "1997-02",
-        "anzahl": 16
+        "anzahl": 17
       },
       {
         "name": "1996-04",
@@ -2853,7 +2861,7 @@
       },
       {
         "name": "2000-05",
-        "anzahl": 27
+        "anzahl": 28
       },
       {
         "name": "1994-10",
@@ -2873,7 +2881,7 @@
       },
       {
         "name": "2001-09",
-        "anzahl": 28
+        "anzahl": 30
       },
       {
         "name": "1988-05",
@@ -2885,7 +2893,7 @@
       },
       {
         "name": "1987-02",
-        "anzahl": 4
+        "anzahl": 5
       },
       {
         "name": "1986-01",
@@ -2901,7 +2909,7 @@
       },
       {
         "name": "1998-06",
-        "anzahl": 19
+        "anzahl": 21
       },
       {
         "name": "1996-12",
@@ -2909,7 +2917,7 @@
       },
       {
         "name": "1995-08",
-        "anzahl": 5
+        "anzahl": 6
       },
       {
         "name": "1995-01",
@@ -2921,7 +2929,7 @@
       },
       {
         "name": "1994-02",
-        "anzahl": 5
+        "anzahl": 6
       },
       {
         "name": "1993-10",
@@ -2937,7 +2945,7 @@
       },
       {
         "name": "1997-07",
-        "anzahl": 14
+        "anzahl": 15
       },
       {
         "name": "1989-10",
@@ -2981,7 +2989,7 @@
       },
       {
         "name": "1994-04",
-        "anzahl": 4
+        "anzahl": 5
       },
       {
         "name": "1994-01",
@@ -2993,7 +3001,7 @@
       },
       {
         "name": "1997-08",
-        "anzahl": 9
+        "anzahl": 10
       },
       {
         "name": "1987-08",
@@ -3049,15 +3057,15 @@
       },
       {
         "name": "1988-02",
-        "anzahl": 3
+        "anzahl": 4
       },
       {
         "name": "1987-05",
-        "anzahl": 6
+        "anzahl": 7
       },
       {
         "name": "1986-09",
-        "anzahl": 1
+        "anzahl": 2
       },
       {
         "name": "1988-03",
@@ -3089,7 +3097,7 @@
       },
       {
         "name": "1985-10",
-        "anzahl": 3
+        "anzahl": 4
       },
       {
         "name": "1977-03",
@@ -3117,7 +3125,7 @@
       },
       {
         "name": "1993-05",
-        "anzahl": 2
+        "anzahl": 4
       },
       {
         "name": "1990-08",
@@ -3153,7 +3161,7 @@
       },
       {
         "name": "1988-07",
-        "anzahl": 3
+        "anzahl": 5
       },
       {
         "name": "1985-01",
@@ -3166,6 +3174,26 @@
       {
         "name": "1996-03",
         "anzahl": 1
+      },
+      {
+        "name": "1990-02",
+        "anzahl": 2
+      },
+      {
+        "name": "1975-11",
+        "anzahl": 1
+      },
+      {
+        "name": "1983-02",
+        "anzahl": 2
+      },
+      {
+        "name": "1987-07",
+        "anzahl": 3
+      },
+      {
+        "name": "1991-12",
+        "anzahl": 3
       },
       {
         "name": "1964-10",
@@ -3252,10 +3280,6 @@
         "anzahl": 3
       },
       {
-        "name": "1990-02",
-        "anzahl": 1
-      },
-      {
         "name": "1964-07",
         "anzahl": 1
       },
@@ -3278,10 +3302,6 @@
       {
         "name": "1978-05",
         "anzahl": 1
-      },
-      {
-        "name": "1991-12",
-        "anzahl": 2
       },
       {
         "name": "1986-08",
@@ -3356,10 +3376,6 @@
         "anzahl": 1
       },
       {
-        "name": "1987-07",
-        "anzahl": 2
-      },
-      {
         "name": "1987-12",
         "anzahl": 1
       },
@@ -3397,10 +3413,6 @@
       },
       {
         "name": "1993-08",
-        "anzahl": 1
-      },
-      {
-        "name": "1983-02",
         "anzahl": 1
       },
       {
@@ -3447,22 +3459,22 @@
     "byPhiboxConnection": [
       {
         "name": "Kein Status",
-        "anzahl": 100334
+        "anzahl": 101971
       },
       {
         "name": "LIVE",
-        "anzahl": 25266
+        "anzahl": 25301
       }
     ],
     "byBundeslandDetail": [
       {
         "bundesland": "rheinland-pfalz",
-        "gesamt": 8395,
-        "urteile": 5892,
-        "beschluesse": 2469,
-        "inPhibox": 8395,
+        "gesamt": 8498,
+        "urteile": 5952,
+        "beschluesse": 2512,
+        "inPhibox": 8498,
         "mitSummary3": 2,
-        "ohneSummary3": 8393,
+        "ohneSummary3": 8496,
         "pre": 67,
         "post": 5
       },
@@ -3490,12 +3502,12 @@
       },
       {
         "bundesland": "Unbekannt",
-        "gesamt": 14231,
+        "gesamt": 14232,
         "urteile": 0,
         "beschluesse": 0,
-        "inPhibox": 14231,
+        "inPhibox": 14232,
         "mitSummary3": 0,
-        "ohneSummary3": 14231,
+        "ohneSummary3": 14232,
         "pre": 0,
         "post": 0
       },
@@ -3578,23 +3590,23 @@
       },
       {
         "bundesland": "baden-württemberg",
-        "gesamt": 3695,
-        "urteile": 2690,
-        "beschluesse": 921,
-        "inPhibox": 3695,
+        "gesamt": 3712,
+        "urteile": 2702,
+        "beschluesse": 926,
+        "inPhibox": 3712,
         "mitSummary3": 8,
-        "ohneSummary3": 3687,
+        "ohneSummary3": 3704,
         "pre": 42,
         "post": 26
       },
       {
         "bundesland": "bund",
-        "gesamt": 67345,
-        "urteile": 30097,
-        "beschluesse": 36505,
-        "inPhibox": 67345,
-        "mitSummary3": 5915,
-        "ohneSummary3": 61430,
+        "gesamt": 68502,
+        "urteile": 30534,
+        "beschluesse": 37207,
+        "inPhibox": 68502,
+        "mitSummary3": 5950,
+        "ohneSummary3": 62552,
         "pre": 1187,
         "post": 0
       },
@@ -3622,12 +3634,12 @@
       },
       {
         "bundesland": "bremen",
-        "gesamt": 299,
-        "urteile": 205,
-        "beschluesse": 91,
-        "inPhibox": 299,
+        "gesamt": 370,
+        "urteile": 242,
+        "beschluesse": 125,
+        "inPhibox": 370,
         "mitSummary3": 0,
-        "ohneSummary3": 299,
+        "ohneSummary3": 370,
         "pre": 0,
         "post": 0
       },
@@ -3644,12 +3656,12 @@
       },
       {
         "bundesland": "sachsen",
-        "gesamt": 237,
-        "urteile": 199,
-        "beschluesse": 36,
-        "inPhibox": 237,
+        "gesamt": 560,
+        "urteile": 465,
+        "beschluesse": 87,
+        "inPhibox": 560,
         "mitSummary3": 0,
-        "ohneSummary3": 237,
+        "ohneSummary3": 560,
         "pre": 0,
         "post": 0
       }
@@ -3660,9 +3672,9 @@
         "gerichte": [
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 5. Kammer",
-            "gesamt": 938,
-            "urteile": 718,
-            "beschluesse": 218
+            "gesamt": 950,
+            "urteile": 728,
+            "beschluesse": 220
           },
           {
             "name": "OLG Koblenz Vergabesenat",
@@ -3966,9 +3978,9 @@
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 10. Kammer",
-            "gesamt": 612,
-            "urteile": 409,
-            "beschluesse": 201
+            "gesamt": 625,
+            "urteile": 418,
+            "beschluesse": 205
           },
           {
             "name": "Oberverwaltungsgericht Rheinland-Pfalz 13. Senat",
@@ -3984,9 +3996,9 @@
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 11. Kammer",
-            "gesamt": 415,
-            "urteile": 250,
-            "beschluesse": 164
+            "gesamt": 418,
+            "urteile": 251,
+            "beschluesse": 166
           },
           {
             "name": "Oberverwaltungsgericht Rheinland-Pfalz 2. Senat",
@@ -4002,9 +4014,9 @@
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 6. Kammer",
-            "gesamt": 813,
-            "urteile": 582,
-            "beschluesse": 228
+            "gesamt": 821,
+            "urteile": 588,
+            "beschluesse": 230
           },
           {
             "name": "OLG Koblenz 1. Zivilsenat",
@@ -4014,9 +4026,9 @@
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 9. Kammer",
-            "gesamt": 620,
-            "urteile": 388,
-            "beschluesse": 232
+            "gesamt": 629,
+            "urteile": 394,
+            "beschluesse": 235
           },
           {
             "name": "AG Mainz",
@@ -4026,9 +4038,9 @@
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 3. Kammer",
-            "gesamt": 677,
-            "urteile": 485,
-            "beschluesse": 190
+            "gesamt": 687,
+            "urteile": 491,
+            "beschluesse": 194
           },
           {
             "name": "SG Koblenz 9. Kammer",
@@ -4104,33 +4116,33 @@
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 8. Kammer",
-            "gesamt": 788,
-            "urteile": 553,
-            "beschluesse": 235
+            "gesamt": 802,
+            "urteile": 559,
+            "beschluesse": 243
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 7. Kammer",
-            "gesamt": 732,
-            "urteile": 533,
-            "beschluesse": 197
+            "gesamt": 744,
+            "urteile": 542,
+            "beschluesse": 200
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 1. Kammer",
-            "gesamt": 505,
+            "gesamt": 510,
             "urteile": 123,
-            "beschluesse": 381
+            "beschluesse": 386
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 4. Kammer",
-            "gesamt": 515,
-            "urteile": 361,
-            "beschluesse": 153
+            "gesamt": 523,
+            "urteile": 364,
+            "beschluesse": 158
           },
           {
             "name": "Landesarbeitsgericht Rheinland-Pfalz 2. Kammer",
-            "gesamt": 720,
-            "urteile": 590,
-            "beschluesse": 128
+            "gesamt": 728,
+            "urteile": 593,
+            "beschluesse": 133
           },
           {
             "name": "SG Trier 4. Kammer",
@@ -4325,6 +4337,12 @@
             "beschluesse": 0
           },
           {
+            "name": "ArbG Ludwigshafen 8. Kammer",
+            "gesamt": 5,
+            "urteile": 4,
+            "beschluesse": 1
+          },
+          {
             "name": "ArbG Kaiserslautern 2. Kammer",
             "gesamt": 8,
             "urteile": 7,
@@ -4455,12 +4473,6 @@
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
-          },
-          {
-            "name": "ArbG Ludwigshafen 8. Kammer",
-            "gesamt": 4,
-            "urteile": 3,
-            "beschluesse": 1
           },
           {
             "name": "ArbG Koblenz 3. Kammer",
@@ -5025,7 +5037,7 @@
         "gerichte": [
           {
             "name": "Unbekannt",
-            "gesamt": 14231,
+            "gesamt": 14232,
             "urteile": 0,
             "beschluesse": 0
           }
@@ -10993,8 +11005,8 @@
           },
           {
             "name": "Landessozialgericht Baden-Württemberg 4. Senat",
-            "gesamt": 12,
-            "urteile": 9,
+            "gesamt": 13,
+            "urteile": 10,
             "beschluesse": 3
           },
           {
@@ -11065,8 +11077,8 @@
           },
           {
             "name": "Landessozialgericht Baden-Württemberg 9. Senat",
-            "gesamt": 8,
-            "urteile": 8,
+            "gesamt": 9,
+            "urteile": 9,
             "beschluesse": 0
           },
           {
@@ -11527,9 +11539,9 @@
           },
           {
             "name": "Landesarbeitsgericht Baden-Württemberg 4. Kammer",
-            "gesamt": 81,
-            "urteile": 54,
-            "beschluesse": 26
+            "gesamt": 84,
+            "urteile": 56,
+            "beschluesse": 27
           },
           {
             "name": "ArbG Stuttgart 25. Kammer",
@@ -11557,15 +11569,75 @@
           },
           {
             "name": "Landesarbeitsgericht Baden-Württemberg 15. Kammer",
-            "gesamt": 41,
-            "urteile": 31,
+            "gesamt": 42,
+            "urteile": 32,
             "beschluesse": 9
           },
           {
             "name": "Landesarbeitsgericht Baden-Württemberg 3. Kammer",
-            "gesamt": 39,
+            "gesamt": 40,
             "urteile": 29,
-            "beschluesse": 10
+            "beschluesse": 11
+          },
+          {
+            "name": "VG Karlsruhe 8. Kammer",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "ArbG Mannheim 2. Kammer",
+            "gesamt": 7,
+            "urteile": 4,
+            "beschluesse": 3
+          },
+          {
+            "name": "ArbG Mannheim 8. Kammer",
+            "gesamt": 18,
+            "urteile": 13,
+            "beschluesse": 5
+          },
+          {
+            "name": "LG Tübingen 5. Zivilkammer",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "ArbG Stuttgart 3. Kammer",
+            "gesamt": 4,
+            "urteile": 3,
+            "beschluesse": 1
+          },
+          {
+            "name": "Landesarbeitsgericht Baden-Württemberg 10. Kammer",
+            "gesamt": 42,
+            "urteile": 28,
+            "beschluesse": 13
+          },
+          {
+            "name": "ArbG Freiburg (Breisgau) 1. Kammer",
+            "gesamt": 2,
+            "urteile": 1,
+            "beschluesse": 1
+          },
+          {
+            "name": "Landesarbeitsgericht Baden-Württemberg 17. Kammer",
+            "gesamt": 43,
+            "urteile": 29,
+            "beschluesse": 14
+          },
+          {
+            "name": "OLG Karlsruhe 12. Zivilsenat",
+            "gesamt": 17,
+            "urteile": 17,
+            "beschluesse": 0
+          },
+          {
+            "name": "ArbG Stuttgart 30. Kammer",
+            "gesamt": 11,
+            "urteile": 8,
+            "beschluesse": 3
           },
           {
             "name": "Landessozialgericht Baden-Württemberg 12. Senat",
@@ -11584,12 +11656,6 @@
             "gesamt": 63,
             "urteile": 0,
             "beschluesse": 62
-          },
-          {
-            "name": "ArbG Stuttgart 30. Kammer",
-            "gesamt": 10,
-            "urteile": 8,
-            "beschluesse": 2
           },
           {
             "name": "Landesarbeitsgericht Baden-Württemberg 8. Kammer",
@@ -11646,12 +11712,6 @@
             "beschluesse": 0
           },
           {
-            "name": "Landesarbeitsgericht Baden-Württemberg 10. Kammer",
-            "gesamt": 41,
-            "urteile": 27,
-            "beschluesse": 13
-          },
-          {
             "name": "VG Stuttgart 10. Kammer",
             "gesamt": 4,
             "urteile": 3,
@@ -11680,12 +11740,6 @@
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
-          },
-          {
-            "name": "Landesarbeitsgericht Baden-Württemberg 17. Kammer",
-            "gesamt": 42,
-            "urteile": 28,
-            "beschluesse": 14
           },
           {
             "name": "ArbG Stuttgart 11. Kammer",
@@ -11739,12 +11793,6 @@
             "name": "ArbG Karlsruhe 10. Kammer",
             "gesamt": 1,
             "urteile": 1,
-            "beschluesse": 0
-          },
-          {
-            "name": "OLG Karlsruhe 12. Zivilsenat",
-            "gesamt": 16,
-            "urteile": 16,
             "beschluesse": 0
           },
           {
@@ -11832,12 +11880,6 @@
             "beschluesse": 13
           },
           {
-            "name": "ArbG Mannheim 8. Kammer",
-            "gesamt": 17,
-            "urteile": 12,
-            "beschluesse": 5
-          },
-          {
             "name": "VG Karlsruhe 14. Kammer",
             "gesamt": 3,
             "urteile": 2,
@@ -11862,12 +11904,6 @@
             "beschluesse": 0
           },
           {
-            "name": "ArbG Mannheim 2. Kammer",
-            "gesamt": 6,
-            "urteile": 3,
-            "beschluesse": 3
-          },
-          {
             "name": "LG Karlsruhe 10. Zivilkammer",
             "gesamt": 1,
             "urteile": 0,
@@ -11883,12 +11919,6 @@
             "name": "VG Freiburg (Breisgau) 5. Kammer",
             "gesamt": 4,
             "urteile": 4,
-            "beschluesse": 0
-          },
-          {
-            "name": "ArbG Stuttgart 3. Kammer",
-            "gesamt": 3,
-            "urteile": 3,
             "beschluesse": 0
           },
           {
@@ -12588,12 +12618,6 @@
             "beschluesse": 1
           },
           {
-            "name": "ArbG Freiburg (Breisgau) 1. Kammer",
-            "gesamt": 1,
-            "urteile": 1,
-            "beschluesse": 0
-          },
-          {
             "name": "LG Rottweil 1. Zivilkammer",
             "gesamt": 1,
             "urteile": 0,
@@ -12816,87 +12840,87 @@
           },
           {
             "name": "BVerwG 3. Senat",
-            "gesamt": 880,
-            "urteile": 363,
-            "beschluesse": 501
+            "gesamt": 914,
+            "urteile": 375,
+            "beschluesse": 522
           },
           {
             "name": "BVerwG 10. Senat",
-            "gesamt": 360,
-            "urteile": 169,
-            "beschluesse": 188
+            "gesamt": 378,
+            "urteile": 173,
+            "beschluesse": 201
           },
           {
             "name": "BVerwG 11. Senat",
-            "gesamt": 47,
-            "urteile": 16,
-            "beschluesse": 31
+            "gesamt": 69,
+            "urteile": 27,
+            "beschluesse": 42
           },
           {
             "name": "BVerwG 9. Senat",
-            "gesamt": 805,
-            "urteile": 263,
-            "beschluesse": 538
+            "gesamt": 820,
+            "urteile": 267,
+            "beschluesse": 549
           },
           {
             "name": "BVerwG 6. Senat",
-            "gesamt": 1134,
-            "urteile": 386,
-            "beschluesse": 734
+            "gesamt": 1155,
+            "urteile": 391,
+            "beschluesse": 750
           },
           {
             "name": "BVerwG 2. Wehrdienstsenat",
-            "gesamt": 365,
-            "urteile": 206,
-            "beschluesse": 159
+            "gesamt": 395,
+            "urteile": 222,
+            "beschluesse": 173
           },
           {
             "name": "BVerwG 8. Senat",
-            "gesamt": 851,
-            "urteile": 270,
-            "beschluesse": 575
+            "gesamt": 874,
+            "urteile": 274,
+            "beschluesse": 594
           },
           {
             "name": "BVerwG 4. Senat",
-            "gesamt": 1143,
-            "urteile": 244,
-            "beschluesse": 896
+            "gesamt": 1169,
+            "urteile": 251,
+            "beschluesse": 915
           },
           {
             "name": "BVerwG 1. Wehrdienstsenat",
-            "gesamt": 642,
+            "gesamt": 674,
             "urteile": 0,
-            "beschluesse": 642
+            "beschluesse": 674
           },
           {
             "name": "BVerwG 7. Senat",
-            "gesamt": 625,
-            "urteile": 231,
-            "beschluesse": 380
+            "gesamt": 648,
+            "urteile": 241,
+            "beschluesse": 393
           },
           {
             "name": "BVerwG 2. Senat",
-            "gesamt": 1581,
-            "urteile": 590,
-            "beschluesse": 977
+            "gesamt": 1635,
+            "urteile": 602,
+            "beschluesse": 1018
           },
           {
             "name": "BVerwG Fachsenat für Entscheidungen nach § 99 Abs 2 VwGO",
-            "gesamt": 132,
+            "gesamt": 140,
             "urteile": 0,
-            "beschluesse": 132
+            "beschluesse": 140
           },
           {
             "name": "BVerwG 1. Senat",
-            "gesamt": 739,
-            "urteile": 298,
-            "beschluesse": 420
+            "gesamt": 764,
+            "urteile": 314,
+            "beschluesse": 428
           },
           {
             "name": "BVerwG 5. Senat",
-            "gesamt": 722,
-            "urteile": 250,
-            "beschluesse": 469
+            "gesamt": 770,
+            "urteile": 255,
+            "beschluesse": 512
           },
           {
             "name": "BVerwG Großer Senat",
@@ -12911,130 +12935,136 @@
             "beschluesse": 1
           },
           {
-            "name": "BGH 4. Strafsenat",
-            "gesamt": 2168,
-            "urteile": 301,
-            "beschluesse": 1867
-          },
-          {
-            "name": "BGH 2. Zivilsenat",
-            "gesamt": 963,
-            "urteile": 448,
-            "beschluesse": 480
-          },
-          {
-            "name": "BGH 11. Zivilsenat",
-            "gesamt": 956,
-            "urteile": 487,
-            "beschluesse": 455
-          },
-          {
-            "name": "BGH 3. Strafsenat",
-            "gesamt": 2463,
-            "urteile": 349,
-            "beschluesse": 2108
-          },
-          {
-            "name": "BGH 9. Zivilsenat",
-            "gesamt": 1814,
-            "urteile": 692,
-            "beschluesse": 1086
-          },
-          {
             "name": "BGH 6a. Zivilsenat",
-            "gesamt": 1273,
-            "urteile": 953,
-            "beschluesse": 316
-          },
-          {
-            "name": "BGH 2. Strafsenat",
-            "gesamt": 2527,
-            "urteile": 498,
-            "beschluesse": 2027
-          },
-          {
-            "name": "BGH 5. Strafsenat",
-            "gesamt": 2045,
-            "urteile": 379,
-            "beschluesse": 1661
-          },
-          {
-            "name": "BGH 10. Zivilsenat",
-            "gesamt": 866,
-            "urteile": 589,
-            "beschluesse": 254
-          },
-          {
-            "name": "BGH 4. Zivilsenat",
-            "gesamt": 1100,
-            "urteile": 552,
-            "beschluesse": 543
-          },
-          {
-            "name": "BGH 6. Strafsenat",
-            "gesamt": 900,
-            "urteile": 123,
-            "beschluesse": 776
-          },
-          {
-            "name": "BGH 3. Zivilsenat",
-            "gesamt": 1003,
-            "urteile": 554,
-            "beschluesse": 437
-          },
-          {
-            "name": "BGH 1. Strafsenat",
-            "gesamt": 2088,
-            "urteile": 373,
-            "beschluesse": 1711
-          },
-          {
-            "name": "BGH 7. Zivilsenat",
-            "gesamt": 1302,
-            "urteile": 423,
-            "beschluesse": 862
-          },
-          {
-            "name": "BGH 6. Zivilsenat",
-            "gesamt": 1378,
-            "urteile": 846,
-            "beschluesse": 514
-          },
-          {
-            "name": "BGH 8. Zivilsenat",
-            "gesamt": 1629,
-            "urteile": 844,
-            "beschluesse": 711
-          },
-          {
-            "name": "BGH Kartellsenat",
-            "gesamt": 535,
-            "urteile": 127,
-            "beschluesse": 402
-          },
-          {
-            "name": "BGH Senat für Anwaltssachen",
-            "gesamt": 503,
-            "urteile": 105,
-            "beschluesse": 398
-          },
-          {
-            "name": "BGH 1. Zivilsenat",
-            "gesamt": 1935,
-            "urteile": 953,
-            "beschluesse": 897
-          },
-          {
-            "name": "BGH 12. Zivilsenat",
-            "gesamt": 2311,
-            "urteile": 293,
-            "beschluesse": 1995
+            "gesamt": 1335,
+            "urteile": 1009,
+            "beschluesse": 322
           },
           {
             "name": "BGH 5. Zivilsenat",
-            "gesamt": 1880,
-            "urteile": 732,
-            "beschluesse": 1099
+            "gesamt": 1935,
+            "urteile": 755,
+            "beschluesse": 1131
+          },
+          {
+            "name": "BGH 9. Zivilsenat",
+            "gesamt": 1856,
+            "urteile": 710,
+            "beschluesse": 1110
+          },
+          {
+            "name": "BGH 3. Zivilsenat",
+            "gesamt": 1034,
+            "urteile": 573,
+            "beschluesse": 449
+          },
+          {
+            "name": "BGH Kartellsenat",
+            "gesamt": 544,
+            "urteile": 130,
+            "beschluesse": 408
+          },
+          {
+            "name": "BGH 5. Strafsenat",
+            "gesamt": 2081,
+            "urteile": 385,
+            "beschluesse": 1691
+          },
+          {
+            "name": "BGH 4. Zivilsenat",
+            "gesamt": 1143,
+            "urteile": 578,
+            "beschluesse": 559
+          },
+          {
+            "name": "BGH 8. Zivilsenat",
+            "gesamt": 1661,
+            "urteile": 862,
+            "beschluesse": 725
+          },
+          {
+            "name": "BGH 4. Strafsenat",
+            "gesamt": 2222,
+            "urteile": 308,
+            "beschluesse": 1914
+          },
+          {
+            "name": "BGH 6. Strafsenat",
+            "gesamt": 908,
+            "urteile": 125,
+            "beschluesse": 782
+          },
+          {
+            "name": "BGH 3. Strafsenat",
+            "gesamt": 2519,
+            "urteile": 357,
+            "beschluesse": 2156
+          },
+          {
+            "name": "BGH 1. Zivilsenat",
+            "gesamt": 1974,
+            "urteile": 979,
+            "beschluesse": 909
+          },
+          {
+            "name": "BGH 11. Zivilsenat",
+            "gesamt": 970,
+            "urteile": 493,
+            "beschluesse": 463
+          },
+          {
+            "name": "BGH 2. Zivilsenat",
+            "gesamt": 985,
+            "urteile": 458,
+            "beschluesse": 492
+          },
+          {
+            "name": "BGH Senat für Anwaltssachen",
+            "gesamt": 511,
+            "urteile": 109,
+            "beschluesse": 402
+          },
+          {
+            "name": "BGH 1. Strafsenat",
+            "gesamt": 2134,
+            "urteile": 381,
+            "beschluesse": 1747
+          },
+          {
+            "name": "BGH 10. Zivilsenat",
+            "gesamt": 890,
+            "urteile": 605,
+            "beschluesse": 260
+          },
+          {
+            "name": "BGH 7. Zivilsenat",
+            "gesamt": 1318,
+            "urteile": 430,
+            "beschluesse": 871
+          },
+          {
+            "name": "BGH 12. Zivilsenat",
+            "gesamt": 2368,
+            "urteile": 298,
+            "beschluesse": 2046
+          },
+          {
+            "name": "BGH Senat für Landwirtschaftssachen",
+            "gesamt": 73,
+            "urteile": 14,
+            "beschluesse": 57
+          },
+          {
+            "name": "BGH 2. Strafsenat",
+            "gesamt": 2570,
+            "urteile": 511,
+            "beschluesse": 2057
+          },
+          {
+            "name": "BGH 6. Zivilsenat",
+            "gesamt": 1405,
+            "urteile": 860,
+            "beschluesse": 522
           },
           {
             "name": "BGH 13. Zivilsenat",
@@ -13050,21 +13080,15 @@
           },
           {
             "name": "BGH Senat für Notarsachen",
-            "gesamt": 167,
+            "gesamt": 170,
             "urteile": 29,
-            "beschluesse": 138
-          },
-          {
-            "name": "BGH Senat für Landwirtschaftssachen",
-            "gesamt": 72,
-            "urteile": 14,
-            "beschluesse": 56
+            "beschluesse": 141
           },
           {
             "name": "BGH",
-            "gesamt": 4,
+            "gesamt": 5,
             "urteile": 2,
-            "beschluesse": 2
+            "beschluesse": 3
           },
           {
             "name": "BGH Senat für Patentanwaltssachen",
@@ -13086,9 +13110,9 @@
           },
           {
             "name": "BGH Ermittlungsrichter",
-            "gesamt": 29,
+            "gesamt": 30,
             "urteile": 0,
-            "beschluesse": 28
+            "beschluesse": 29
           },
           {
             "name": "BGH 10a. Zivilsenat",
@@ -13098,9 +13122,9 @@
           },
           {
             "name": "BGH Senat für Steuerberater- und Steuerbevollmächtigtensachen",
-            "gesamt": 4,
+            "gesamt": 6,
             "urteile": 2,
-            "beschluesse": 2
+            "beschluesse": 4
           },
           {
             "name": "BGH Senat für Wirtschaftsprüfersachen",
@@ -13116,62 +13140,62 @@
           },
           {
             "name": "BAG 4. Senat",
-            "gesamt": 923,
-            "urteile": 860,
+            "gesamt": 929,
+            "urteile": 865,
             "beschluesse": 58
           },
           {
             "name": "BAG 8. Senat",
-            "gesamt": 495,
-            "urteile": 442,
+            "gesamt": 498,
+            "urteile": 445,
             "beschluesse": 44
           },
           {
             "name": "BAG 10. Senat",
-            "gesamt": 852,
-            "urteile": 761,
+            "gesamt": 858,
+            "urteile": 767,
             "beschluesse": 81
           },
           {
             "name": "BAG 2. Senat",
-            "gesamt": 626,
-            "urteile": 563,
+            "gesamt": 630,
+            "urteile": 567,
             "beschluesse": 43
           },
           {
             "name": "BAG 6. Senat",
-            "gesamt": 700,
-            "urteile": 656,
+            "gesamt": 705,
+            "urteile": 661,
             "beschluesse": 30
           },
           {
             "name": "BAG 1. Senat",
-            "gesamt": 646,
-            "urteile": 312,
-            "beschluesse": 330
+            "gesamt": 651,
+            "urteile": 314,
+            "beschluesse": 333
           },
           {
             "name": "BAG 9. Senat",
-            "gesamt": 629,
-            "urteile": 566,
+            "gesamt": 631,
+            "urteile": 568,
             "beschluesse": 49
           },
           {
             "name": "BAG 7. Senat",
-            "gesamt": 633,
-            "urteile": 352,
-            "beschluesse": 273
+            "gesamt": 637,
+            "urteile": 353,
+            "beschluesse": 276
           },
           {
             "name": "BAG 3. Senat",
-            "gesamt": 935,
-            "urteile": 885,
-            "beschluesse": 46
+            "gesamt": 940,
+            "urteile": 888,
+            "beschluesse": 48
           },
           {
             "name": "BAG 5. Senat",
-            "gesamt": 721,
-            "urteile": 675,
+            "gesamt": 727,
+            "urteile": 680,
             "beschluesse": 39
           },
           {
@@ -14007,33 +14031,45 @@
           },
           {
             "name": "Landesarbeitsgericht Bremen 3. Kammer",
-            "gesamt": 66,
-            "urteile": 41,
-            "beschluesse": 25
+            "gesamt": 76,
+            "urteile": 45,
+            "beschluesse": 31
           },
           {
-            "name": "Landesarbeitsgericht Bremen 2. Kammer",
-            "gesamt": 65,
-            "urteile": 46,
-            "beschluesse": 17
+            "name": "Landesarbeitsgericht Bremen 4. Kammer",
+            "gesamt": 64,
+            "urteile": 30,
+            "beschluesse": 34
           },
           {
             "name": "Landesarbeitsgericht Bremen 1. Kammer",
-            "gesamt": 65,
-            "urteile": 50,
-            "beschluesse": 15
+            "gesamt": 86,
+            "urteile": 59,
+            "beschluesse": 27
+          },
+          {
+            "name": "Landesarbeitsgericht Bremen 2. Kammer",
+            "gesamt": 78,
+            "urteile": 57,
+            "beschluesse": 19
+          },
+          {
+            "name": "Arbeitsgericht Bremen-Bremerhaven 5. Kammer",
+            "gesamt": 4,
+            "urteile": 3,
+            "beschluesse": 1
+          },
+          {
+            "name": "Arbeitsgericht Bremen-Bremerhaven 6. Kammer",
+            "gesamt": 4,
+            "urteile": 4,
+            "beschluesse": 0
           },
           {
             "name": "Arbeitsgericht Bremen 7. Kammer",
             "gesamt": 2,
             "urteile": 2,
             "beschluesse": 0
-          },
-          {
-            "name": "Landesarbeitsgericht Bremen 4. Kammer",
-            "gesamt": 39,
-            "urteile": 19,
-            "beschluesse": 20
           },
           {
             "name": "Arbeitsgericht Bremen-Bremerhaven 10. Kammer",
@@ -14049,12 +14085,6 @@
           },
           {
             "name": "Arbeitsgericht Bremen-Bremerhaven 9. Kammer",
-            "gesamt": 3,
-            "urteile": 3,
-            "beschluesse": 0
-          },
-          {
-            "name": "Arbeitsgericht Bremen-Bremerhaven 6. Kammer",
             "gesamt": 3,
             "urteile": 3,
             "beschluesse": 0
@@ -14088,12 +14118,6 @@
             "gesamt": 2,
             "urteile": 2,
             "beschluesse": 0
-          },
-          {
-            "name": "Arbeitsgericht Bremen-Bremerhaven 5. Kammer",
-            "gesamt": 3,
-            "urteile": 2,
-            "beschluesse": 1
           },
           {
             "name": "Arbeitsgericht Bremen 1. Kammer",
@@ -15421,63 +15445,63 @@
         "gerichte": [
           {
             "name": "Sächsisches Landesarbeitsgericht 9. Kammer",
-            "gesamt": 20,
-            "urteile": 16,
-            "beschluesse": 3
+            "gesamt": 57,
+            "urteile": 49,
+            "beschluesse": 7
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 1. Kammer",
-            "gesamt": 7,
-            "urteile": 6,
-            "beschluesse": 1
+            "gesamt": 26,
+            "urteile": 22,
+            "beschluesse": 4
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 3. Kammer",
-            "gesamt": 48,
-            "urteile": 41,
-            "beschluesse": 7
+            "gesamt": 127,
+            "urteile": 112,
+            "beschluesse": 15
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 5. Kammer",
-            "gesamt": 27,
-            "urteile": 25,
-            "beschluesse": 1
+            "gesamt": 50,
+            "urteile": 47,
+            "beschluesse": 2
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 7. Kammer",
-            "gesamt": 26,
-            "urteile": 26,
-            "beschluesse": 0
+            "gesamt": 54,
+            "urteile": 51,
+            "beschluesse": 3
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 2. Kammer",
-            "gesamt": 43,
-            "urteile": 36,
-            "beschluesse": 7
+            "gesamt": 108,
+            "urteile": 86,
+            "beschluesse": 20
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 4. Kammer",
-            "gesamt": 7,
-            "urteile": 2,
-            "beschluesse": 5
+            "gesamt": 25,
+            "urteile": 6,
+            "beschluesse": 16
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 10. Kammer",
-            "gesamt": 4,
-            "urteile": 3,
+            "gesamt": 5,
+            "urteile": 4,
             "beschluesse": 1
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 8. Kammer",
-            "gesamt": 15,
-            "urteile": 14,
-            "beschluesse": 1
+            "gesamt": 30,
+            "urteile": 26,
+            "beschluesse": 3
           },
           {
             "name": "Sächsisches Landesarbeitsgericht 6. Kammer",
-            "gesamt": 23,
-            "urteile": 19,
-            "beschluesse": 4
+            "gesamt": 52,
+            "urteile": 47,
+            "beschluesse": 5
           },
           {
             "name": "ArbG Leipzig 7. Kammer",
@@ -15499,6 +15523,60 @@
           },
           {
             "name": "ArbG Leipzig 20. Kammer",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "ArbG Chemnitz 8. Kammer",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "ArbG Leipzig 11. Kammer",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "ArbG Dresden 8. Kammer",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "ArbG Bautzen 2. Kammer",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "ArbG Leipzig 10. Kammer",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "ArbG Dresden 12. Kammer",
+            "gesamt": 1,
+            "urteile": 1,
+            "beschluesse": 0
+          },
+          {
+            "name": "ArbG Bautzen 5. Kammer",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "ArbG Dresden 16. Kammer",
+            "gesamt": 1,
+            "urteile": 0,
+            "beschluesse": 1
+          },
+          {
+            "name": "ArbG Leipzig 2. Kammer",
             "gesamt": 1,
             "urteile": 1,
             "beschluesse": 0
@@ -15567,5 +15645,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T13:09:02.299Z"
+  "updatedAt": "2026-06-29T18:16:52.092Z"
 }
