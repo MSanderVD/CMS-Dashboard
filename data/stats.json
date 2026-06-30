@@ -990,9 +990,9 @@
   },
   "gesamt": {
     "total": 127272,
-    "beschluesse": 47729,
-    "urteile": 63978,
-    "inPhibox": 127272,
+    "beschluesse": 47121,
+    "urteile": 63728,
+    "inPhibox": 126411,
     "nichtInPhibox": 0,
     "byBundesland": [
       {
@@ -1045,7 +1045,7 @@
       },
       {
         "name": "bund",
-        "anzahl": 68502
+        "anzahl": 67641
       },
       {
         "name": "mecklenburg-vorpommern",
@@ -1087,11 +1087,11 @@
       },
       {
         "name": "urteil",
-        "anzahl": 63978
+        "anzahl": 63728
       },
       {
         "name": "beschluss",
-        "anzahl": 47729
+        "anzahl": 47121
       },
       {
         "name": "gesetz",
@@ -1099,7 +1099,7 @@
       },
       {
         "name": "eugh-vorlage",
-        "anzahl": 376
+        "anzahl": 375
       },
       {
         "name": "vorlagebeschluss",
@@ -1143,7 +1143,7 @@
       },
       {
         "name": "versäumnisurteil",
-        "anzahl": 262
+        "anzahl": 260
       },
       {
         "name": "verfügung",
@@ -1301,19 +1301,19 @@
       },
       {
         "name": "2024-04",
-        "anzahl": 507
+        "anzahl": 226
       },
       {
         "name": "2024-05",
-        "anzahl": 451
+        "anzahl": 401
       },
       {
         "name": "2024-11",
-        "anzahl": 532
+        "anzahl": 529
       },
       {
         "name": "2024-12",
-        "anzahl": 554
+        "anzahl": 553
       },
       {
         "name": "2024-09",
@@ -1333,11 +1333,11 @@
       },
       {
         "name": "2024-03",
-        "anzahl": 541
+        "anzahl": 220
       },
       {
         "name": "2024-02",
-        "anzahl": 569
+        "anzahl": 364
       },
       {
         "name": "2024-01",
@@ -3459,7 +3459,7 @@
     "byPhiboxConnection": [
       {
         "name": "Kein Status",
-        "anzahl": 101971
+        "anzahl": 101110
       },
       {
         "name": "LIVE",
@@ -3601,12 +3601,12 @@
       },
       {
         "bundesland": "bund",
-        "gesamt": 68502,
-        "urteile": 30534,
-        "beschluesse": 37207,
-        "inPhibox": 68502,
+        "gesamt": 67641,
+        "urteile": 30284,
+        "beschluesse": 36599,
+        "inPhibox": 67641,
         "mitSummary3": 5950,
-        "ohneSummary3": 62552,
+        "ohneSummary3": 61691,
         "pre": 1187,
         "post": 0
       },
@@ -12936,141 +12936,141 @@
           },
           {
             "name": "BGH 6a. Zivilsenat",
-            "gesamt": 1335,
-            "urteile": 1009,
-            "beschluesse": 322
+            "gesamt": 1198,
+            "urteile": 916,
+            "beschluesse": 279
           },
           {
             "name": "BGH 5. Zivilsenat",
-            "gesamt": 1935,
-            "urteile": 755,
-            "beschluesse": 1131
+            "gesamt": 1899,
+            "urteile": 742,
+            "beschluesse": 1108
           },
           {
             "name": "BGH 9. Zivilsenat",
-            "gesamt": 1856,
-            "urteile": 710,
-            "beschluesse": 1110
+            "gesamt": 1826,
+            "urteile": 701,
+            "beschluesse": 1089
           },
           {
             "name": "BGH 3. Zivilsenat",
-            "gesamt": 1034,
-            "urteile": 573,
-            "beschluesse": 449
+            "gesamt": 1016,
+            "urteile": 565,
+            "beschluesse": 439
           },
           {
             "name": "BGH Kartellsenat",
-            "gesamt": 544,
+            "gesamt": 539,
             "urteile": 130,
-            "beschluesse": 408
+            "beschluesse": 403
           },
           {
             "name": "BGH 5. Strafsenat",
-            "gesamt": 2081,
-            "urteile": 385,
-            "beschluesse": 1691
+            "gesamt": 1990,
+            "urteile": 374,
+            "beschluesse": 1611
           },
           {
             "name": "BGH 4. Zivilsenat",
-            "gesamt": 1143,
-            "urteile": 578,
-            "beschluesse": 559
+            "gesamt": 1107,
+            "urteile": 556,
+            "beschluesse": 545
           },
           {
             "name": "BGH 8. Zivilsenat",
-            "gesamt": 1661,
-            "urteile": 862,
-            "beschluesse": 725
+            "gesamt": 1646,
+            "urteile": 856,
+            "beschluesse": 716
           },
           {
             "name": "BGH 4. Strafsenat",
-            "gesamt": 2222,
-            "urteile": 308,
-            "beschluesse": 1914
+            "gesamt": 2165,
+            "urteile": 302,
+            "beschluesse": 1863
           },
           {
             "name": "BGH 6. Strafsenat",
-            "gesamt": 908,
-            "urteile": 125,
-            "beschluesse": 782
+            "gesamt": 845,
+            "urteile": 120,
+            "beschluesse": 724
           },
           {
             "name": "BGH 3. Strafsenat",
-            "gesamt": 2519,
-            "urteile": 357,
-            "beschluesse": 2156
+            "gesamt": 2466,
+            "urteile": 352,
+            "beschluesse": 2108
           },
           {
             "name": "BGH 1. Zivilsenat",
-            "gesamt": 1974,
-            "urteile": 979,
-            "beschluesse": 909
+            "gesamt": 1946,
+            "urteile": 975,
+            "beschluesse": 887
           },
           {
             "name": "BGH 11. Zivilsenat",
-            "gesamt": 970,
-            "urteile": 493,
-            "beschluesse": 463
+            "gesamt": 944,
+            "urteile": 490,
+            "beschluesse": 440
           },
           {
             "name": "BGH 2. Zivilsenat",
-            "gesamt": 985,
-            "urteile": 458,
-            "beschluesse": 492
+            "gesamt": 976,
+            "urteile": 457,
+            "beschluesse": 484
           },
           {
             "name": "BGH Senat für Anwaltssachen",
-            "gesamt": 511,
+            "gesamt": 495,
             "urteile": 109,
-            "beschluesse": 402
+            "beschluesse": 386
           },
           {
             "name": "BGH 1. Strafsenat",
-            "gesamt": 2134,
-            "urteile": 381,
-            "beschluesse": 1747
+            "gesamt": 2094,
+            "urteile": 375,
+            "beschluesse": 1713
           },
           {
             "name": "BGH 10. Zivilsenat",
-            "gesamt": 890,
-            "urteile": 605,
-            "beschluesse": 260
+            "gesamt": 870,
+            "urteile": 592,
+            "beschluesse": 253
           },
           {
             "name": "BGH 7. Zivilsenat",
-            "gesamt": 1318,
-            "urteile": 430,
-            "beschluesse": 871
+            "gesamt": 1276,
+            "urteile": 410,
+            "beschluesse": 849
           },
           {
             "name": "BGH 12. Zivilsenat",
-            "gesamt": 2368,
+            "gesamt": 2345,
             "urteile": 298,
-            "beschluesse": 2046
+            "beschluesse": 2023
           },
           {
             "name": "BGH Senat für Landwirtschaftssachen",
-            "gesamt": 73,
+            "gesamt": 72,
             "urteile": 14,
-            "beschluesse": 57
+            "beschluesse": 56
           },
           {
             "name": "BGH 2. Strafsenat",
-            "gesamt": 2570,
-            "urteile": 511,
-            "beschluesse": 2057
+            "gesamt": 2502,
+            "urteile": 501,
+            "beschluesse": 1999
           },
           {
             "name": "BGH 6. Zivilsenat",
-            "gesamt": 1405,
-            "urteile": 860,
-            "beschluesse": 522
+            "gesamt": 1382,
+            "urteile": 846,
+            "beschluesse": 513
           },
           {
             "name": "BGH 13. Zivilsenat",
-            "gesamt": 269,
+            "gesamt": 248,
             "urteile": 22,
-            "beschluesse": 247
+            "beschluesse": 226
           },
           {
             "name": "BGH Dienstgericht des Bundes",
@@ -13080,15 +13080,9 @@
           },
           {
             "name": "BGH Senat für Notarsachen",
-            "gesamt": 170,
+            "gesamt": 168,
             "urteile": 29,
-            "beschluesse": 141
-          },
-          {
-            "name": "BGH",
-            "gesamt": 5,
-            "urteile": 2,
-            "beschluesse": 3
+            "beschluesse": 139
           },
           {
             "name": "BGH Senat für Patentanwaltssachen",
@@ -13125,6 +13119,12 @@
             "gesamt": 6,
             "urteile": 2,
             "beschluesse": 4
+          },
+          {
+            "name": "BGH",
+            "gesamt": 4,
+            "urteile": 1,
+            "beschluesse": 3
           },
           {
             "name": "BGH Senat für Wirtschaftsprüfersachen",
@@ -15645,5 +15645,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-29T18:16:52.092Z"
+  "updatedAt": "2026-06-30T13:15:41.040Z"
 }
